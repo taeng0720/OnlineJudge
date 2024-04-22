@@ -1,0 +1,61 @@
+<!DOCTYPE html><html><head><title>OnlineJudge</title><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1"><meta name=renderer content=webkit><link rel="shortcut icon" href=/public/website/favicon.ico><link href=/static/css/loader.css rel=stylesheet><script>// IE 10 and earlier
+    if (window.navigator.userAgent.indexOf('MSIE ') > 0 &&
+      window.confirm('Your browser is not supported, click \'OK\' to update')) {
+      window.location = 'http://outdatedbrowser.com'
+    }</script><link href=/static/css/vendor.2e0287a87aa38cd084dc20e9cce86d83.css rel=stylesheet><link href=/static/css/oj.4ef876effe23c6d99f597e7b3599b42d.css rel=stylesheet></head><body><canvas class=rainCanvas width=2200px height=2000px></canvas><div id=app-loader><div class=square></div><div class=square></div><div class="square last"></div><div class="square clear"></div><div class=square></div><div class="square last"></div><div class="square clear"></div><div class=square></div><div class="square last"></div></div><div id=app></div><script>const canvas = document.querySelector('.rainCanvas');
+  const context = canvas.getContext('2d');
+  const drops = [];
+  const mousePos = { x: 0, y: 0 };
+  let selectedBox; // 클릭된 box를 넣어놓은 변수
+
+  context.font = 'bold 30px sans-serif';
+
+  class Drop {
+    constructor(index, x, y, speed, length) {
+      this.index = index;
+      this.x = x;
+      this.y = y;
+      this.speed = speed;
+      this.length = length;
+      this.draw();
+    }
+
+    draw() {
+      context.beginPath();
+      context.strokeStyle = '#a7c2de';
+      context.moveTo(this.x, this.y);
+      context.lineTo(this.x, this.y + this.length);
+      context.stroke();
+      context.closePath();
+    }
+  }
+
+  function render() {
+    context.clearRect(0, 0, canvas.width, canvas.height);
+
+    drops.forEach((drop) => {
+      drop.y += drop.speed;
+      if (drop.y > canvas.height) {
+        drop.y = 0;
+        drop.x = Math.random() * canvas.width;
+        drop.speed = Math.random() * 7 + 1;
+        drop.length = Math.random() * 7 + 2;
+      }
+
+      drop.draw();
+    });
+
+    requestAnimationFrame(render); //반복
+    //console.log(drops);
+  }
+
+  let tempX, tempY, tempSpeed, tempLength;
+  for (let i = 0; i < 200; i++) {
+    tempX = Math.random() * canvas.width;
+    tempY = Math.random() * canvas.height;
+    tempSpeed = Math.random() * 5 + 1;
+    tempLength = Math.random() * 5 + 2;
+
+    drops.push(new Drop(i, tempX, tempY, tempSpeed, tempLength));
+  }
+  render();</script><script type=text/javascript src=/static/js/vendor.dll.b64803b.js></script><script type=text/javascript src=/static/js/manifest.597dedf30f209aa1be10.js></script><script type=text/javascript src=/static/js/vendor.c721e1c313b9205bffe6.js></script><script type=text/javascript src=/static/js/oj.4a59e7d20a3cefd4fcf2.js></script></body></html>
