@@ -11546,3 +11546,16 @@
 [2024-05-07 22:58:45 +0000] [1] [ERROR] Worker (pid:32034) exited with code 1
 [2024-05-07 22:58:45 +0000] [1] [ERROR] Worker (pid:32034) exited with code 1.
 [2024-05-07 22:58:45 +0000] [32107] [INFO] Booting worker with pid: 32107
+[2024-05-07 22:59:55 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:32027)
+[2024-05-07 22:59:55 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:32029)
+[2024-05-07 22:59:55 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:32031)
+[2024-05-07 22:59:55 +0000] [32027] [INFO] Worker exiting (pid: 32027)
+[2024-05-07 22:59:55 +0000] [32029] [INFO] Worker exiting (pid: 32029)
+[2024-05-07 22:59:55 +0000] [32031] [INFO] Worker exiting (pid: 32031)
+[2024-05-07 22:59:55 +0000] [1] [ERROR] Worker (pid:32027) exited with code 1
+[2024-05-07 22:59:55 +0000] [1] [ERROR] Worker (pid:32027) exited with code 1.
+[2024-05-07 22:59:55 +0000] [1] [ERROR] Worker (pid:32029) was sent SIGKILL! Perhaps out of memory?
+[2024-05-07 22:59:55 +0000] [1] [ERROR] Worker (pid:32031) was sent SIGKILL! Perhaps out of memory?
+[2024-05-07 22:59:55 +0000] [32138] [INFO] Booting worker with pid: 32138
+[2024-05-07 22:59:55 +0000] [32139] [INFO] Booting worker with pid: 32139
+[2024-05-07 22:59:55 +0000] [32140] [INFO] Booting worker with pid: 32140

@@ -21000,3 +21000,28 @@ Arguments: (32730, 1)
 [2024-05-07 22:12:49 +0000] [33005] [INFO] Booting worker with pid: 33005
 [2024-05-07 22:12:49 +0000] [33006] [INFO] Booting worker with pid: 33006
 [2024-05-07 22:12:49 +0000] [33007] [INFO] Booting worker with pid: 33007
+[2024-05-07 22:59:55 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:32886)
+[2024-05-07 22:59:55 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:33001)
+[2024-05-07 22:59:55 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:33004)
+[2024-05-07 22:59:55 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:33005)
+[2024-05-07 22:59:55 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:33006)
+[2024-05-07 22:59:55 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:33007)
+[2024-05-07 22:59:55 +0000] [33006] [INFO] Worker exiting (pid: 33006)
+[2024-05-07 22:59:55 +0000] [33005] [INFO] Worker exiting (pid: 33005)
+[2024-05-07 22:59:55 +0000] [33004] [INFO] Worker exiting (pid: 33004)
+[2024-05-07 22:59:55 +0000] [32886] [INFO] Worker exiting (pid: 32886)
+[2024-05-07 22:59:55 +0000] [33001] [INFO] Worker exiting (pid: 33001)
+[2024-05-07 22:59:55 +0000] [33007] [INFO] Worker exiting (pid: 33007)
+[2024-05-07 22:59:55 +0000] [238] [ERROR] Worker (pid:33004) exited with code 1
+[2024-05-07 22:59:55 +0000] [238] [ERROR] Worker (pid:33004) exited with code 1.
+[2024-05-07 22:59:55 +0000] [33118] [INFO] Booting worker with pid: 33118
+[2024-05-07 22:59:55 +0000] [238] [ERROR] Worker (pid:33007) was sent SIGKILL! Perhaps out of memory?
+[2024-05-07 22:59:55 +0000] [238] [ERROR] Worker (pid:32886) was sent SIGKILL! Perhaps out of memory?
+[2024-05-07 22:59:55 +0000] [238] [ERROR] Worker (pid:33006) was sent SIGKILL! Perhaps out of memory?
+[2024-05-07 22:59:55 +0000] [238] [ERROR] Worker (pid:33001) was sent SIGKILL! Perhaps out of memory?
+[2024-05-07 22:59:55 +0000] [33119] [INFO] Booting worker with pid: 33119
+[2024-05-07 22:59:55 +0000] [238] [ERROR] Worker (pid:33005) was sent SIGKILL! Perhaps out of memory?
+[2024-05-07 22:59:55 +0000] [33120] [INFO] Booting worker with pid: 33120
+[2024-05-07 22:59:55 +0000] [33121] [INFO] Booting worker with pid: 33121
+[2024-05-07 22:59:55 +0000] [33122] [INFO] Booting worker with pid: 33122
+[2024-05-07 22:59:55 +0000] [33123] [INFO] Booting worker with pid: 33123
