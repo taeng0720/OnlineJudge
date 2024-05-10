@@ -22264,3 +22264,13 @@ Arguments: ()
 [2024-05-09 00:41:43 +0000] [238] [ERROR] Worker (pid:71163) exited with code 1
 [2024-05-09 00:41:43 +0000] [238] [ERROR] Worker (pid:71163) exited with code 1.
 [2024-05-09 00:41:43 +0000] [71283] [INFO] Booting worker with pid: 71283
+[2024-05-09 06:22:53 +0000] [238] [INFO] Handling signal: term
+[2024-05-09 06:22:53 +0000] [71170] [INFO] Worker exiting (pid: 71170)
+[2024-05-09 06:22:53 +0000] [71166] [INFO] Worker exiting (pid: 71166)
+[2024-05-09 06:22:53 +0000] [71164] [INFO] Worker exiting (pid: 71164)
+[2024-05-09 06:22:53 +0000] [71245] [INFO] Worker exiting (pid: 71245)
+[2024-05-09 06:22:53 +0000] [71169] [INFO] Worker exiting (pid: 71169)
+[2024-05-09 06:22:53 +0000] [71168] [INFO] Worker exiting (pid: 71168)
+[2024-05-09 06:22:53 +0000] [71283] [INFO] Worker exiting (pid: 71283)
+[2024-05-09 06:22:54 +0000] [71244] [INFO] Worker exiting (pid: 71244)
+[2024-05-09 06:22:54 +0000] [238] [INFO] Shutting down: Master

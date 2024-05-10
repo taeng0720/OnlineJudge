@@ -665,3 +665,9 @@
 2024-05-03 07:11:53,369 INFO success: dramatiq entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
 2024-05-03 07:11:53,370 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
 2024-05-03 07:11:53,370 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-05-09 06:22:52,211 WARN received SIGTERM indicating exit request
+2024-05-09 06:22:52,219 INFO waiting for dramatiq, gunicorn, nginx to die
+2024-05-09 06:22:53,252 INFO stopped: nginx (exit status 0)
+2024-05-09 06:22:54,492 INFO stopped: gunicorn (exit status 0)
+2024-05-09 06:22:55,259 INFO waiting for dramatiq to die
+2024-05-09 06:22:57,926 INFO stopped: dramatiq (exit status 0)

@@ -12396,3 +12396,13 @@ RuntimeError: reentrant call inside <_io.BufferedWriter name='<stderr>'>
 [2024-05-09 01:14:10 +0000] [54] [INFO] Booting worker with pid: 54
 [2024-05-09 01:14:10 +0000] [55] [INFO] Booting worker with pid: 55
 [2024-05-09 01:14:10 +0000] [56] [INFO] Booting worker with pid: 56
+[2024-05-09 06:22:58 +0000] [1] [INFO] Handling signal: term
+[2024-05-09 06:22:58 +0000] [53] [INFO] Worker exiting (pid: 53)
+[2024-05-09 06:22:58 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-05-09 06:22:58 +0000] [56] [INFO] Worker exiting (pid: 56)
+[2024-05-09 06:22:58 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-05-09 06:22:58 +0000] [54] [INFO] Worker exiting (pid: 54)
+[2024-05-09 06:22:58 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-05-09 06:22:58 +0000] [55] [INFO] Worker exiting (pid: 55)
+[2024-05-09 06:22:59 +0000] [52] [INFO] Worker exiting (pid: 52)
+[2024-05-09 06:22:59 +0000] [1] [INFO] Shutting down: Master
