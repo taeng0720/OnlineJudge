@@ -23877,3 +23877,1577 @@ Arguments: ()
 [2024-05-11 06:45:26 +0000] [238] [ERROR] Worker (pid:17382) was sent SIGKILL! Perhaps out of memory?
 [2024-05-11 06:45:26 +0000] [17421] [INFO] Booting worker with pid: 17421
 [2024-05-11 06:45:26 +0000] [17422] [INFO] Booting worker with pid: 17422
+[2024-05-11 07:10:20 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17378)
+[2024-05-11 07:10:20 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17380)
+[2024-05-11 07:10:20 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17422)
+[2024-05-11 07:10:20 +0000] [17422] [INFO] Worker exiting (pid: 17422)
+[2024-05-11 07:10:20 +0000] [17380] [INFO] Worker exiting (pid: 17380)
+[2024-05-11 07:10:20 +0000] [17378] [INFO] Worker exiting (pid: 17378)
+[2024-05-11 07:10:20 +0000] [238] [ERROR] Worker (pid:17380) exited with code 1
+[2024-05-11 07:10:20 +0000] [238] [ERROR] Worker (pid:17380) exited with code 1.
+[2024-05-11 07:10:20 +0000] [238] [ERROR] Worker (pid:17378) exited with code 1
+[2024-05-11 07:10:20 +0000] [238] [ERROR] Worker (pid:17378) exited with code 1.
+[2024-05-11 07:10:20 +0000] [17912] [INFO] Booting worker with pid: 17912
+[2024-05-11 07:10:20 +0000] [238] [ERROR] Worker (pid:17422) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 07:10:21 +0000] [17913] [INFO] Booting worker with pid: 17913
+[2024-05-11 07:10:21 +0000] [17914] [INFO] Booting worker with pid: 17914
+[2024-05-11 08:11:08 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17261)
+[2024-05-11 08:11:08 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17379)
+[2024-05-11 08:11:08 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17381)
+[2024-05-11 08:11:08 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17420)
+[2024-05-11 08:11:08 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17421)
+[2024-05-11 08:11:08 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17912)
+[2024-05-11 08:11:08 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17913)
+[2024-05-11 08:11:08 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17914)
+[2024-05-11 08:11:08 +0000] [17912] [INFO] Worker exiting (pid: 17912)
+[2024-05-11 08:11:08 +0000] [17913] [INFO] Worker exiting (pid: 17913)
+[2024-05-11 08:11:08 +0000] [17421] [INFO] Worker exiting (pid: 17421)
+[2024-05-11 08:11:08 +0000] [17381] [INFO] Worker exiting (pid: 17381)
+[2024-05-11 08:11:08 +0000] [17914] [INFO] Worker exiting (pid: 17914)
+[2024-05-11 08:11:08 +0000] [17420] [INFO] Worker exiting (pid: 17420)
+[2024-05-11 08:11:08 +0000] [17379] [INFO] Worker exiting (pid: 17379)
+[2024-05-11 08:11:08 +0000] [17261] [INFO] Worker exiting (pid: 17261)
+[2024-05-11 08:11:08 +0000] [238] [ERROR] Worker (pid:17381) exited with code 1
+[2024-05-11 08:11:08 +0000] [238] [ERROR] Worker (pid:17381) exited with code 1.
+[2024-05-11 08:11:08 +0000] [17989] [INFO] Booting worker with pid: 17989
+[2024-05-11 08:11:08 +0000] [238] [ERROR] Worker (pid:17379) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 08:11:08 +0000] [238] [ERROR] Worker (pid:17914) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 08:11:08 +0000] [238] [ERROR] Worker (pid:17261) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 08:11:08 +0000] [238] [ERROR] Worker (pid:17913) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 08:11:08 +0000] [238] [ERROR] Worker (pid:17912) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 08:11:08 +0000] [238] [ERROR] Worker (pid:17421) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 08:11:08 +0000] [238] [ERROR] Worker (pid:17420) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 08:11:08 +0000] [17990] [INFO] Booting worker with pid: 17990
+[2024-05-11 08:11:08 +0000] [17991] [INFO] Booting worker with pid: 17991
+[2024-05-11 08:11:08 +0000] [17992] [INFO] Booting worker with pid: 17992
+[2024-05-11 08:11:08 +0000] [17993] [INFO] Booting worker with pid: 17993
+[2024-05-11 08:11:09 +0000] [17994] [INFO] Booting worker with pid: 17994
+[2024-05-11 08:11:09 +0000] [17995] [INFO] Booting worker with pid: 17995
+[2024-05-11 08:11:09 +0000] [17996] [INFO] Booting worker with pid: 17996
+[2024-05-11 08:43:50 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17993)
+[2024-05-11 08:43:50 +0000] [17993] [INFO] Worker exiting (pid: 17993)
+[2024-05-11 08:43:50 +0000] [238] [ERROR] Worker (pid:17993) exited with code 1
+[2024-05-11 08:43:50 +0000] [238] [ERROR] Worker (pid:17993) exited with code 1.
+[2024-05-11 08:43:50 +0000] [18033] [INFO] Booting worker with pid: 18033
+[2024-05-11 09:17:34 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17989)
+[2024-05-11 09:17:34 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17990)
+[2024-05-11 09:17:34 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17991)
+[2024-05-11 09:17:34 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17992)
+[2024-05-11 09:17:34 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17994)
+[2024-05-11 09:17:34 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17996)
+[2024-05-11 09:17:34 +0000] [17991] [INFO] Worker exiting (pid: 17991)
+[2024-05-11 09:17:34 +0000] [17992] [INFO] Worker exiting (pid: 17992)
+[2024-05-11 09:17:34 +0000] [17989] [INFO] Worker exiting (pid: 17989)
+[2024-05-11 09:17:34 +0000] [17994] [INFO] Worker exiting (pid: 17994)
+[2024-05-11 09:17:34 +0000] [17990] [INFO] Worker exiting (pid: 17990)
+[2024-05-11 09:17:34 +0000] [17996] [INFO] Worker exiting (pid: 17996)
+[2024-05-11 09:17:35 +0000] [238] [ERROR] Worker (pid:17992) exited with code 1
+[2024-05-11 09:17:35 +0000] [238] [ERROR] Worker (pid:17992) exited with code 1.
+[2024-05-11 09:17:35 +0000] [18071] [INFO] Booting worker with pid: 18071
+[2024-05-11 09:17:35 +0000] [238] [ERROR] Worker (pid:17989) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 09:17:35 +0000] [238] [ERROR] Worker (pid:17990) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 09:17:35 +0000] [238] [ERROR] Worker (pid:17991) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 09:17:35 +0000] [238] [ERROR] Worker (pid:17996) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 09:17:35 +0000] [238] [ERROR] Worker (pid:17994) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 09:17:35 +0000] [18072] [INFO] Booting worker with pid: 18072
+[2024-05-11 09:17:35 +0000] [18073] [INFO] Booting worker with pid: 18073
+[2024-05-11 09:17:35 +0000] [18074] [INFO] Booting worker with pid: 18074
+[2024-05-11 09:17:35 +0000] [18075] [INFO] Booting worker with pid: 18075
+[2024-05-11 09:17:35 +0000] [18076] [INFO] Booting worker with pid: 18076
+[2024-05-11 10:00:52 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18033)
+[2024-05-11 10:00:52 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18073)
+[2024-05-11 10:00:52 +0000] [18073] [INFO] Worker exiting (pid: 18073)
+[2024-05-11 10:00:52 +0000] [18033] [INFO] Worker exiting (pid: 18033)
+[2024-05-11 10:00:52 +0000] [238] [ERROR] Worker (pid:18073) exited with code 1
+[2024-05-11 10:00:52 +0000] [238] [ERROR] Worker (pid:18073) exited with code 1.
+[2024-05-11 10:00:52 +0000] [18149] [INFO] Booting worker with pid: 18149
+[2024-05-11 10:00:52 +0000] [238] [ERROR] Worker (pid:18033) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 10:00:52 +0000] [18150] [INFO] Booting worker with pid: 18150
+[2024-05-11 10:56:07 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:17995)
+[2024-05-11 10:56:07 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18071)
+[2024-05-11 10:56:07 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18072)
+[2024-05-11 10:56:07 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18075)
+[2024-05-11 10:56:07 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18149)
+[2024-05-11 10:56:07 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18150)
+[2024-05-11 10:56:07 +0000] [17995] [INFO] Worker exiting (pid: 17995)
+[2024-05-11 10:56:07 +0000] [18075] [INFO] Worker exiting (pid: 18075)
+[2024-05-11 10:56:07 +0000] [18150] [INFO] Worker exiting (pid: 18150)
+[2024-05-11 10:56:07 +0000] [18149] [INFO] Worker exiting (pid: 18149)
+[2024-05-11 10:56:07 +0000] [18071] [INFO] Worker exiting (pid: 18071)
+[2024-05-11 10:56:07 +0000] [18072] [INFO] Worker exiting (pid: 18072)
+[2024-05-11 10:56:07 +0000] [238] [ERROR] Worker (pid:18071) exited with code 1
+[2024-05-11 10:56:07 +0000] [238] [ERROR] Worker (pid:18071) exited with code 1.
+[2024-05-11 10:56:07 +0000] [238] [ERROR] Worker (pid:17995) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 10:56:07 +0000] [18292] [INFO] Booting worker with pid: 18292
+[2024-05-11 10:56:07 +0000] [238] [ERROR] Worker (pid:18075) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 10:56:07 +0000] [238] [ERROR] Worker (pid:18149) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 10:56:07 +0000] [238] [ERROR] Worker (pid:18150) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 10:56:07 +0000] [238] [ERROR] Worker (pid:18072) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 10:56:07 +0000] [18293] [INFO] Booting worker with pid: 18293
+[2024-05-11 10:56:07 +0000] [18294] [INFO] Booting worker with pid: 18294
+[2024-05-11 10:56:07 +0000] [18295] [INFO] Booting worker with pid: 18295
+[2024-05-11 10:56:07 +0000] [18296] [INFO] Booting worker with pid: 18296
+[2024-05-11 10:56:07 +0000] [18297] [INFO] Booting worker with pid: 18297
+[2024-05-11 10:58:23 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18292)
+[2024-05-11 10:58:23 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18296)
+[2024-05-11 10:58:23 +0000] [18292] [INFO] Worker exiting (pid: 18292)
+[2024-05-11 10:58:23 +0000] [18296] [INFO] Worker exiting (pid: 18296)
+[2024-05-11 10:58:23 +0000] [238] [ERROR] Worker (pid:18296) exited with code 1
+[2024-05-11 10:58:23 +0000] [238] [ERROR] Worker (pid:18296) exited with code 1.
+[2024-05-11 10:58:23 +0000] [238] [ERROR] Worker (pid:18292) exited with code 1
+[2024-05-11 10:58:23 +0000] [238] [ERROR] Worker (pid:18292) exited with code 1.
+[2024-05-11 10:58:23 +0000] [18335] [INFO] Booting worker with pid: 18335
+[2024-05-11 10:58:23 +0000] [18336] [INFO] Booting worker with pid: 18336
+[2024-05-11 11:00:00 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18074)
+[2024-05-11 11:00:00 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18076)
+[2024-05-11 11:00:00 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18293)
+[2024-05-11 11:00:00 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18294)
+[2024-05-11 11:00:00 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18295)
+[2024-05-11 11:00:00 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18335)
+[2024-05-11 11:00:00 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18336)
+[2024-05-11 11:00:00 +0000] [18293] [INFO] Worker exiting (pid: 18293)
+[2024-05-11 11:00:00 +0000] [18294] [INFO] Worker exiting (pid: 18294)
+[2024-05-11 11:00:00 +0000] [18074] [INFO] Worker exiting (pid: 18074)
+[2024-05-11 11:00:00 +0000] [18335] [INFO] Worker exiting (pid: 18335)
+[2024-05-11 11:00:00 +0000] [18295] [INFO] Worker exiting (pid: 18295)
+[2024-05-11 11:00:00 +0000] [18076] [INFO] Worker exiting (pid: 18076)
+[2024-05-11 11:00:00 +0000] [18336] [INFO] Worker exiting (pid: 18336)
+[2024-05-11 11:00:00 +0000] [238] [ERROR] Worker (pid:18335) exited with code 1
+[2024-05-11 11:00:00 +0000] [238] [ERROR] Worker (pid:18335) exited with code 1.
+[2024-05-11 11:00:00 +0000] [18374] [INFO] Booting worker with pid: 18374
+[2024-05-11 11:00:00 +0000] [238] [ERROR] Worker (pid:18074) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 11:00:00 +0000] [238] [ERROR] Worker (pid:18336) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 11:00:00 +0000] [238] [ERROR] Worker (pid:18076) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 11:00:00 +0000] [238] [ERROR] Worker (pid:18295) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 11:00:00 +0000] [238] [ERROR] Worker (pid:18293) exited with code 1
+[2024-05-11 11:00:00 +0000] [238] [ERROR] Worker (pid:18293) exited with code 1.
+[2024-05-11 11:00:00 +0000] [238] [ERROR] Worker (pid:18294) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 11:00:00 +0000] [18375] [INFO] Booting worker with pid: 18375
+[2024-05-11 11:00:00 +0000] [18376] [INFO] Booting worker with pid: 18376
+[2024-05-11 11:00:00 +0000] [18377] [INFO] Booting worker with pid: 18377
+[2024-05-11 11:00:00 +0000] [18378] [INFO] Booting worker with pid: 18378
+[2024-05-11 11:00:00 +0000] [18379] [INFO] Booting worker with pid: 18379
+[2024-05-11 11:00:00 +0000] [18380] [INFO] Booting worker with pid: 18380
+[2024-05-11 11:02:53 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18380)
+[2024-05-11 11:02:53 +0000] [18380] [INFO] Worker exiting (pid: 18380)
+[2024-05-11 11:02:54 +0000] [238] [ERROR] Worker (pid:18380) exited with code 1
+[2024-05-11 11:02:54 +0000] [238] [ERROR] Worker (pid:18380) exited with code 1.
+[2024-05-11 11:02:54 +0000] [18418] [INFO] Booting worker with pid: 18418
+[2024-05-11 12:08:40 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18297)
+[2024-05-11 12:08:40 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18374)
+[2024-05-11 12:08:40 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18375)
+[2024-05-11 12:08:40 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18376)
+[2024-05-11 12:08:40 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18377)
+[2024-05-11 12:08:40 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18378)
+[2024-05-11 12:08:40 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18379)
+[2024-05-11 12:08:40 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18418)
+[2024-05-11 12:08:40 +0000] [18374] [INFO] Worker exiting (pid: 18374)
+[2024-05-11 12:08:40 +0000] [18297] [INFO] Worker exiting (pid: 18297)
+[2024-05-11 12:08:40 +0000] [18375] [INFO] Worker exiting (pid: 18375)
+[2024-05-11 12:08:40 +0000] [18376] [INFO] Worker exiting (pid: 18376)
+[2024-05-11 12:08:40 +0000] [18377] [INFO] Worker exiting (pid: 18377)
+[2024-05-11 12:08:40 +0000] [18378] [INFO] Worker exiting (pid: 18378)
+[2024-05-11 12:08:40 +0000] [18379] [INFO] Worker exiting (pid: 18379)
+[2024-05-11 12:08:40 +0000] [18418] [INFO] Worker exiting (pid: 18418)
+[2024-05-11 12:08:40 +0000] [238] [ERROR] Worker (pid:18378) exited with code 1
+[2024-05-11 12:08:40 +0000] [238] [ERROR] Worker (pid:18378) exited with code 1.
+[2024-05-11 12:08:40 +0000] [18491] [INFO] Booting worker with pid: 18491
+[2024-05-11 12:08:40 +0000] [238] [ERROR] Worker (pid:18376) exited with code 1
+[2024-05-11 12:08:40 +0000] [238] [ERROR] Worker (pid:18376) exited with code 1.
+[2024-05-11 12:08:40 +0000] [238] [ERROR] Worker (pid:18375) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 12:08:40 +0000] [238] [ERROR] Worker (pid:18377) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 12:08:40 +0000] [238] [ERROR] Worker (pid:18379) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 12:08:40 +0000] [238] [ERROR] Worker (pid:18297) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 12:08:40 +0000] [238] [ERROR] Worker (pid:18418) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 12:08:40 +0000] [238] [ERROR] Worker (pid:18374) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 12:08:40 +0000] [18492] [INFO] Booting worker with pid: 18492
+[2024-05-11 12:08:40 +0000] [18493] [INFO] Booting worker with pid: 18493
+[2024-05-11 12:08:40 +0000] [18494] [INFO] Booting worker with pid: 18494
+[2024-05-11 12:08:40 +0000] [18495] [INFO] Booting worker with pid: 18495
+[2024-05-11 12:08:40 +0000] [18496] [INFO] Booting worker with pid: 18496
+[2024-05-11 12:08:40 +0000] [18497] [INFO] Booting worker with pid: 18497
+[2024-05-11 12:08:40 +0000] [18498] [INFO] Booting worker with pid: 18498
+[2024-05-11 12:23:20 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18495)
+[2024-05-11 12:23:20 +0000] [18495] [INFO] Worker exiting (pid: 18495)
+[2024-05-11 12:23:20 +0000] [238] [ERROR] Worker (pid:18495) exited with code 1
+[2024-05-11 12:23:20 +0000] [238] [ERROR] Worker (pid:18495) exited with code 1.
+[2024-05-11 12:23:20 +0000] [18608] [INFO] Booting worker with pid: 18608
+[2024-05-11 13:22:12 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18491)
+[2024-05-11 13:22:12 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18496)
+[2024-05-11 13:22:12 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18497)
+[2024-05-11 13:22:12 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18608)
+[2024-05-11 13:22:12 +0000] [18491] [INFO] Worker exiting (pid: 18491)
+[2024-05-11 13:22:12 +0000] [18497] [INFO] Worker exiting (pid: 18497)
+[2024-05-11 13:22:12 +0000] [18496] [INFO] Worker exiting (pid: 18496)
+[2024-05-11 13:22:12 +0000] [18608] [INFO] Worker exiting (pid: 18608)
+[2024-05-11 13:22:12 +0000] [238] [ERROR] Worker (pid:18491) exited with code 1
+[2024-05-11 13:22:12 +0000] [238] [ERROR] Worker (pid:18491) exited with code 1.
+[2024-05-11 13:22:12 +0000] [238] [ERROR] Worker (pid:18608) exited with code 1
+[2024-05-11 13:22:12 +0000] [238] [ERROR] Worker (pid:18608) exited with code 1.
+[2024-05-11 13:22:12 +0000] [18639] [INFO] Booting worker with pid: 18639
+[2024-05-11 13:22:12 +0000] [238] [ERROR] Worker (pid:18496) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 13:22:12 +0000] [238] [ERROR] Worker (pid:18497) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 13:22:12 +0000] [18640] [INFO] Booting worker with pid: 18640
+[2024-05-11 13:22:12 +0000] [18641] [INFO] Booting worker with pid: 18641
+[2024-05-11 13:22:12 +0000] [18642] [INFO] Booting worker with pid: 18642
+[2024-05-11 14:23:16 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18640)
+[2024-05-11 14:23:16 +0000] [18640] [INFO] Worker exiting (pid: 18640)
+[2024-05-11 14:23:16 +0000] [238] [ERROR] Worker (pid:18640) exited with code 1
+[2024-05-11 14:23:16 +0000] [238] [ERROR] Worker (pid:18640) exited with code 1.
+[2024-05-11 14:23:16 +0000] [18679] [INFO] Booting worker with pid: 18679
+[2024-05-11 14:40:04 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18492)
+[2024-05-11 14:40:04 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18493)
+[2024-05-11 14:40:04 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18494)
+[2024-05-11 14:40:04 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18498)
+[2024-05-11 14:40:04 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18639)
+[2024-05-11 14:40:04 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18641)
+[2024-05-11 14:40:04 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18642)
+[2024-05-11 14:40:04 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18679)
+[2024-05-11 14:40:04 +0000] [18492] [INFO] Worker exiting (pid: 18492)
+[2024-05-11 14:40:04 +0000] [18493] [INFO] Worker exiting (pid: 18493)
+[2024-05-11 14:40:04 +0000] [18494] [INFO] Worker exiting (pid: 18494)
+[2024-05-11 14:40:04 +0000] [18642] [INFO] Worker exiting (pid: 18642)
+[2024-05-11 14:40:04 +0000] [18679] [INFO] Worker exiting (pid: 18679)
+[2024-05-11 14:40:04 +0000] [18498] [INFO] Worker exiting (pid: 18498)
+[2024-05-11 14:40:04 +0000] [18639] [INFO] Worker exiting (pid: 18639)
+[2024-05-11 14:40:04 +0000] [18641] [INFO] Worker exiting (pid: 18641)
+[2024-05-11 14:40:04 +0000] [238] [ERROR] Worker (pid:18494) exited with code 1
+[2024-05-11 14:40:04 +0000] [238] [ERROR] Worker (pid:18494) exited with code 1.
+[2024-05-11 14:40:04 +0000] [238] [ERROR] Worker (pid:18498) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 14:40:04 +0000] [238] [ERROR] Worker (pid:18639) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 14:40:04 +0000] [18718] [INFO] Booting worker with pid: 18718
+[2024-05-11 14:40:04 +0000] [238] [ERROR] Worker (pid:18492) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 14:40:04 +0000] [238] [ERROR] Worker (pid:18641) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 14:40:04 +0000] [238] [ERROR] Worker (pid:18642) was sent SIGKILL! Perhaps out of memory?
+--- Logging error ---
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1163, in emit
+    stream.write(msg + self.terminator)
+RuntimeError: reentrant call inside <_io.BufferedWriter name='<stderr>'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1163, in emit
+    stream.write(msg + self.terminator)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 554, in reap_workers
+    self.log.error(msg)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/glogging.py", line 272, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1568, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1684, in _log
+    self.handle(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1700, in handle
+    self.callHandlers(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1762, in callHandlers
+    hdlr.handle(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1028, in handle
+    self.emit(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1168, in emit
+    self.handleError(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1081, in handleError
+    sys.stderr.write('--- Logging error ---\n')
+RuntimeError: reentrant call inside <_io.BufferedWriter name='<stderr>'>
+Call stack:
+  File "/usr/local/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 211, in run
+    self.manage_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 643, in spawn_workers
+    time.sleep(0.1 * random.random())
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 554, in reap_workers
+    self.log.error(msg)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/glogging.py", line 272, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:18642) was sent SIGKILL! Perhaps out of memory?'
+Arguments: ()
+[2024-05-11 14:40:04 +0000] [238] [ERROR] Worker (pid:18679) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 14:40:04 +0000] [18719] [INFO] Booting worker with pid: 18719
+[2024-05-11 14:40:04 +0000] [18720] [INFO] Booting worker with pid: 18720
+[2024-05-11 14:40:04 +0000] [18721] [INFO] Booting worker with pid: 18721
+[2024-05-11 14:40:04 +0000] [18722] [INFO] Booting worker with pid: 18722
+[2024-05-11 14:40:04 +0000] [18723] [INFO] Booting worker with pid: 18723
+[2024-05-11 14:40:04 +0000] [18724] [INFO] Booting worker with pid: 18724
+[2024-05-11 14:40:04 +0000] [18725] [INFO] Booting worker with pid: 18725
+[2024-05-11 14:41:23 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18720)
+[2024-05-11 14:41:23 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18721)
+[2024-05-11 14:41:23 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18722)
+[2024-05-11 14:41:23 +0000] [18720] [INFO] Worker exiting (pid: 18720)
+[2024-05-11 14:41:23 +0000] [18721] [INFO] Worker exiting (pid: 18721)
+[2024-05-11 14:41:23 +0000] [18722] [INFO] Worker exiting (pid: 18722)
+[2024-05-11 14:41:23 +0000] [238] [ERROR] Worker (pid:18721) exited with code 1
+[2024-05-11 14:41:23 +0000] [238] [ERROR] Worker (pid:18721) exited with code 1.
+[2024-05-11 14:41:23 +0000] [18763] [INFO] Booting worker with pid: 18763
+[2024-05-11 14:41:23 +0000] [238] [ERROR] Worker (pid:18722) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 14:41:23 +0000] [238] [ERROR] Worker (pid:18720) exited with code 1
+[2024-05-11 14:41:23 +0000] [238] [ERROR] Worker (pid:18720) exited with code 1.
+[2024-05-11 14:41:23 +0000] [18764] [INFO] Booting worker with pid: 18764
+[2024-05-11 14:41:23 +0000] [18765] [INFO] Booting worker with pid: 18765
+[2024-05-11 14:59:50 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18718)
+[2024-05-11 14:59:50 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18719)
+[2024-05-11 14:59:50 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18723)
+[2024-05-11 14:59:50 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18724)
+[2024-05-11 14:59:50 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18725)
+[2024-05-11 14:59:50 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18763)
+[2024-05-11 14:59:50 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18765)
+[2024-05-11 14:59:50 +0000] [18763] [INFO] Worker exiting (pid: 18763)
+[2024-05-11 14:59:50 +0000] [18724] [INFO] Worker exiting (pid: 18724)
+[2024-05-11 14:59:50 +0000] [18719] [INFO] Worker exiting (pid: 18719)
+[2024-05-11 14:59:50 +0000] [18725] [INFO] Worker exiting (pid: 18725)
+[2024-05-11 14:59:50 +0000] [18723] [INFO] Worker exiting (pid: 18723)
+[2024-05-11 14:59:50 +0000] [18765] [INFO] Worker exiting (pid: 18765)
+[2024-05-11 14:59:50 +0000] [18718] [INFO] Worker exiting (pid: 18718)
+[2024-05-11 14:59:50 +0000] [238] [ERROR] Worker (pid:18718) exited with code 1
+[2024-05-11 14:59:50 +0000] [238] [ERROR] Worker (pid:18718) exited with code 1.
+[2024-05-11 14:59:50 +0000] [18803] [INFO] Booting worker with pid: 18803
+[2024-05-11 14:59:50 +0000] [238] [ERROR] Worker (pid:18724) exited with code 1
+[2024-05-11 14:59:50 +0000] [238] [ERROR] Worker (pid:18724) exited with code 1.
+[2024-05-11 14:59:50 +0000] [238] [ERROR] Worker (pid:18763) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 14:59:50 +0000] [238] [ERROR] Worker (pid:18765) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 14:59:50 +0000] [238] [ERROR] Worker (pid:18725) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 14:59:50 +0000] [238] [ERROR] Worker (pid:18719) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 14:59:50 +0000] [238] [ERROR] Worker (pid:18723) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 14:59:51 +0000] [18804] [INFO] Booting worker with pid: 18804
+[2024-05-11 14:59:51 +0000] [18805] [INFO] Booting worker with pid: 18805
+[2024-05-11 14:59:51 +0000] [18806] [INFO] Booting worker with pid: 18806
+[2024-05-11 14:59:51 +0000] [18807] [INFO] Booting worker with pid: 18807
+[2024-05-11 14:59:51 +0000] [18808] [INFO] Booting worker with pid: 18808
+[2024-05-11 14:59:51 +0000] [18809] [INFO] Booting worker with pid: 18809
+[2024-05-11 15:19:26 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18808)
+[2024-05-11 15:19:26 +0000] [18808] [INFO] Worker exiting (pid: 18808)
+[2024-05-11 15:19:26 +0000] [238] [ERROR] Worker (pid:18808) exited with code 1
+[2024-05-11 15:19:26 +0000] [238] [ERROR] Worker (pid:18808) exited with code 1.
+[2024-05-11 15:19:26 +0000] [18882] [INFO] Booting worker with pid: 18882
+[2024-05-11 15:24:05 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18764)
+[2024-05-11 15:24:06 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18803)
+[2024-05-11 15:24:06 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18804)
+[2024-05-11 15:24:06 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18805)
+[2024-05-11 15:24:06 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18806)
+[2024-05-11 15:24:06 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18807)
+[2024-05-11 15:24:06 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18809)
+[2024-05-11 15:24:06 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18882)
+[2024-05-11 15:24:06 +0000] [18803] [INFO] Worker exiting (pid: 18803)
+[2024-05-11 15:24:06 +0000] [18804] [INFO] Worker exiting (pid: 18804)
+[2024-05-11 15:24:06 +0000] [18882] [INFO] Worker exiting (pid: 18882)
+[2024-05-11 15:24:06 +0000] [18764] [INFO] Worker exiting (pid: 18764)
+[2024-05-11 15:24:06 +0000] [18805] [INFO] Worker exiting (pid: 18805)
+[2024-05-11 15:24:06 +0000] [18807] [INFO] Worker exiting (pid: 18807)
+[2024-05-11 15:24:06 +0000] [18809] [INFO] Worker exiting (pid: 18809)
+[2024-05-11 15:24:06 +0000] [18806] [INFO] Worker exiting (pid: 18806)
+[2024-05-11 15:24:06 +0000] [238] [ERROR] Worker (pid:18804) exited with code 1
+[2024-05-11 15:24:06 +0000] [238] [ERROR] Worker (pid:18804) exited with code 1.
+[2024-05-11 15:24:06 +0000] [18920] [INFO] Booting worker with pid: 18920
+[2024-05-11 15:24:06 +0000] [238] [ERROR] Worker (pid:18803) exited with code 1
+[2024-05-11 15:24:06 +0000] [238] [ERROR] Worker (pid:18803) exited with code 1.
+[2024-05-11 15:24:06 +0000] [238] [ERROR] Worker (pid:18806) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 15:24:06 +0000] [238] [ERROR] Worker (pid:18882) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 15:24:06 +0000] [238] [ERROR] Worker (pid:18764) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 15:24:06 +0000] [238] [ERROR] Worker (pid:18809) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 15:24:06 +0000] [238] [ERROR] Worker (pid:18805) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 15:24:06 +0000] [238] [ERROR] Worker (pid:18807) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 15:24:06 +0000] [18921] [INFO] Booting worker with pid: 18921
+[2024-05-11 15:24:06 +0000] [18922] [INFO] Booting worker with pid: 18922
+[2024-05-11 15:24:06 +0000] [18923] [INFO] Booting worker with pid: 18923
+[2024-05-11 15:24:06 +0000] [18924] [INFO] Booting worker with pid: 18924
+[2024-05-11 15:24:06 +0000] [18925] [INFO] Booting worker with pid: 18925
+[2024-05-11 15:24:06 +0000] [18926] [INFO] Booting worker with pid: 18926
+[2024-05-11 15:24:06 +0000] [18927] [INFO] Booting worker with pid: 18927
+[2024-05-11 15:44:03 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18920)
+[2024-05-11 15:44:03 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18921)
+[2024-05-11 15:44:03 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18922)
+[2024-05-11 15:44:03 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18924)
+[2024-05-11 15:44:03 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18925)
+[2024-05-11 15:44:03 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18926)
+[2024-05-11 15:44:03 +0000] [18920] [INFO] Worker exiting (pid: 18920)
+[2024-05-11 15:44:03 +0000] [18921] [INFO] Worker exiting (pid: 18921)
+[2024-05-11 15:44:03 +0000] [18922] [INFO] Worker exiting (pid: 18922)
+[2024-05-11 15:44:03 +0000] [18924] [INFO] Worker exiting (pid: 18924)
+[2024-05-11 15:44:03 +0000] [18925] [INFO] Worker exiting (pid: 18925)
+[2024-05-11 15:44:03 +0000] [18926] [INFO] Worker exiting (pid: 18926)
+[2024-05-11 15:44:03 +0000] [238] [ERROR] Worker (pid:18924) exited with code 1
+[2024-05-11 15:44:03 +0000] [238] [ERROR] Worker (pid:18924) exited with code 1.
+[2024-05-11 15:44:03 +0000] [238] [ERROR] Worker (pid:18922) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 15:44:03 +0000] [19001] [INFO] Booting worker with pid: 19001
+[2024-05-11 15:44:03 +0000] [238] [ERROR] Worker (pid:18925) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 15:44:03 +0000] [238] [ERROR] Worker (pid:18926) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 15:44:03 +0000] [238] [ERROR] Worker (pid:18921) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 15:44:03 +0000] [238] [ERROR] Worker (pid:18920) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 15:44:03 +0000] [19002] [INFO] Booting worker with pid: 19002
+[2024-05-11 15:44:03 +0000] [19003] [INFO] Booting worker with pid: 19003
+[2024-05-11 15:44:03 +0000] [19004] [INFO] Booting worker with pid: 19004
+[2024-05-11 15:44:03 +0000] [19005] [INFO] Booting worker with pid: 19005
+[2024-05-11 15:44:03 +0000] [19006] [INFO] Booting worker with pid: 19006
+[2024-05-11 15:45:57 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18923)
+[2024-05-11 15:45:57 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:18927)
+[2024-05-11 15:45:57 +0000] [18927] [INFO] Worker exiting (pid: 18927)
+[2024-05-11 15:45:57 +0000] [18923] [INFO] Worker exiting (pid: 18923)
+[2024-05-11 15:45:57 +0000] [238] [ERROR] Worker (pid:18923) exited with code 1
+[2024-05-11 15:45:57 +0000] [238] [ERROR] Worker (pid:18923) exited with code 1.
+[2024-05-11 15:45:57 +0000] [19038] [INFO] Booting worker with pid: 19038
+[2024-05-11 15:45:57 +0000] [238] [ERROR] Worker (pid:18927) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 15:45:57 +0000] [19039] [INFO] Booting worker with pid: 19039
+[2024-05-11 16:03:07 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19006)
+[2024-05-11 16:03:07 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19038)
+[2024-05-11 16:03:07 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19039)
+[2024-05-11 16:03:07 +0000] [19006] [INFO] Worker exiting (pid: 19006)
+[2024-05-11 16:03:07 +0000] [19038] [INFO] Worker exiting (pid: 19038)
+[2024-05-11 16:03:07 +0000] [19039] [INFO] Worker exiting (pid: 19039)
+[2024-05-11 16:03:07 +0000] [238] [ERROR] Worker (pid:19038) exited with code 1
+[2024-05-11 16:03:07 +0000] [238] [ERROR] Worker (pid:19038) exited with code 1.
+[2024-05-11 16:03:07 +0000] [238] [ERROR] Worker (pid:19039) exited with code 1
+[2024-05-11 16:03:07 +0000] [238] [ERROR] Worker (pid:19039) exited with code 1.
+[2024-05-11 16:03:07 +0000] [19076] [INFO] Booting worker with pid: 19076
+[2024-05-11 16:03:07 +0000] [238] [ERROR] Worker (pid:19006) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 16:03:07 +0000] [19077] [INFO] Booting worker with pid: 19077
+[2024-05-11 16:03:07 +0000] [19078] [INFO] Booting worker with pid: 19078
+[2024-05-11 16:04:23 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19001)
+[2024-05-11 16:04:23 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19002)
+[2024-05-11 16:04:23 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19003)
+[2024-05-11 16:04:23 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19004)
+[2024-05-11 16:04:23 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19005)
+[2024-05-11 16:04:23 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19076)
+[2024-05-11 16:04:23 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19077)
+[2024-05-11 16:04:23 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19078)
+[2024-05-11 16:04:23 +0000] [19001] [INFO] Worker exiting (pid: 19001)
+[2024-05-11 16:04:23 +0000] [19002] [INFO] Worker exiting (pid: 19002)
+[2024-05-11 16:04:23 +0000] [19003] [INFO] Worker exiting (pid: 19003)
+[2024-05-11 16:04:23 +0000] [19077] [INFO] Worker exiting (pid: 19077)
+[2024-05-11 16:04:23 +0000] [19078] [INFO] Worker exiting (pid: 19078)
+[2024-05-11 16:04:23 +0000] [19005] [INFO] Worker exiting (pid: 19005)
+[2024-05-11 16:04:23 +0000] [19004] [INFO] Worker exiting (pid: 19004)
+[2024-05-11 16:04:23 +0000] [19076] [INFO] Worker exiting (pid: 19076)
+[2024-05-11 16:04:23 +0000] [238] [ERROR] Worker (pid:19003) exited with code 1
+[2024-05-11 16:04:23 +0000] [238] [ERROR] Worker (pid:19003) exited with code 1.
+[2024-05-11 16:04:23 +0000] [238] [ERROR] Worker (pid:19077) exited with code 1
+[2024-05-11 16:04:23 +0000] [238] [ERROR] Worker (pid:19077) exited with code 1.
+[2024-05-11 16:04:23 +0000] [19115] [INFO] Booting worker with pid: 19115
+[2024-05-11 16:04:23 +0000] [238] [ERROR] Worker (pid:19004) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 16:04:23 +0000] [238] [ERROR] Worker (pid:19001) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 16:04:23 +0000] [238] [ERROR] Worker (pid:19076) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 16:04:23 +0000] [238] [ERROR] Worker (pid:19005) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 16:04:23 +0000] [238] [ERROR] Worker (pid:19002) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 16:04:23 +0000] [238] [ERROR] Worker (pid:19078) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 16:04:23 +0000] [19116] [INFO] Booting worker with pid: 19116
+[2024-05-11 16:04:24 +0000] [19117] [INFO] Booting worker with pid: 19117
+[2024-05-11 16:04:24 +0000] [19118] [INFO] Booting worker with pid: 19118
+[2024-05-11 16:04:24 +0000] [19119] [INFO] Booting worker with pid: 19119
+[2024-05-11 16:04:24 +0000] [19120] [INFO] Booting worker with pid: 19120
+[2024-05-11 16:04:24 +0000] [19121] [INFO] Booting worker with pid: 19121
+[2024-05-11 16:04:24 +0000] [19122] [INFO] Booting worker with pid: 19122
+[2024-05-11 16:23:09 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19118)
+[2024-05-11 16:23:09 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19119)
+[2024-05-11 16:23:09 +0000] [19118] [INFO] Worker exiting (pid: 19118)
+[2024-05-11 16:23:09 +0000] [19119] [INFO] Worker exiting (pid: 19119)
+[2024-05-11 16:23:09 +0000] [238] [ERROR] Worker (pid:19118) exited with code 1
+[2024-05-11 16:23:09 +0000] [238] [ERROR] Worker (pid:19118) exited with code 1.
+[2024-05-11 16:23:09 +0000] [238] [ERROR] Worker (pid:19119) exited with code 1
+[2024-05-11 16:23:09 +0000] [238] [ERROR] Worker (pid:19119) exited with code 1.
+[2024-05-11 16:23:09 +0000] [19161] [INFO] Booting worker with pid: 19161
+[2024-05-11 16:23:10 +0000] [19162] [INFO] Booting worker with pid: 19162
+[2024-05-11 16:40:22 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19115)
+[2024-05-11 16:40:22 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19116)
+[2024-05-11 16:40:22 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19117)
+[2024-05-11 16:40:22 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19120)
+[2024-05-11 16:40:22 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19121)
+[2024-05-11 16:40:22 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19122)
+[2024-05-11 16:40:22 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19161)
+[2024-05-11 16:40:22 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19162)
+[2024-05-11 16:40:22 +0000] [19115] [INFO] Worker exiting (pid: 19115)
+[2024-05-11 16:40:22 +0000] [19116] [INFO] Worker exiting (pid: 19116)
+[2024-05-11 16:40:22 +0000] [19117] [INFO] Worker exiting (pid: 19117)
+[2024-05-11 16:40:22 +0000] [19161] [INFO] Worker exiting (pid: 19161)
+[2024-05-11 16:40:22 +0000] [19120] [INFO] Worker exiting (pid: 19120)
+[2024-05-11 16:40:22 +0000] [19122] [INFO] Worker exiting (pid: 19122)
+[2024-05-11 16:40:22 +0000] [19121] [INFO] Worker exiting (pid: 19121)
+[2024-05-11 16:40:22 +0000] [19162] [INFO] Worker exiting (pid: 19162)
+[2024-05-11 16:40:22 +0000] [238] [ERROR] Worker (pid:19117) exited with code 1
+[2024-05-11 16:40:22 +0000] [238] [ERROR] Worker (pid:19117) exited with code 1.
+[2024-05-11 16:40:22 +0000] [19199] [INFO] Booting worker with pid: 19199
+[2024-05-11 16:40:22 +0000] [238] [ERROR] Worker (pid:19161) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 16:40:22 +0000] [238] [ERROR] Worker (pid:19162) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 16:40:22 +0000] [238] [ERROR] Worker (pid:19121) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 16:40:22 +0000] [238] [ERROR] Worker (pid:19116) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 16:40:22 +0000] [238] [ERROR] Worker (pid:19122) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 16:40:22 +0000] [238] [ERROR] Worker (pid:19115) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 16:40:22 +0000] [238] [ERROR] Worker (pid:19120) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 16:40:22 +0000] [19200] [INFO] Booting worker with pid: 19200
+[2024-05-11 16:40:22 +0000] [19201] [INFO] Booting worker with pid: 19201
+[2024-05-11 16:40:23 +0000] [19202] [INFO] Booting worker with pid: 19202
+[2024-05-11 16:40:23 +0000] [19203] [INFO] Booting worker with pid: 19203
+[2024-05-11 16:40:23 +0000] [19204] [INFO] Booting worker with pid: 19204
+[2024-05-11 16:40:23 +0000] [19205] [INFO] Booting worker with pid: 19205
+[2024-05-11 16:40:23 +0000] [19206] [INFO] Booting worker with pid: 19206
+[2024-05-11 16:42:28 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19205)
+[2024-05-11 16:42:28 +0000] [19205] [INFO] Worker exiting (pid: 19205)
+[2024-05-11 16:42:28 +0000] [238] [ERROR] Worker (pid:19205) exited with code 1
+[2024-05-11 16:42:28 +0000] [238] [ERROR] Worker (pid:19205) exited with code 1.
+[2024-05-11 16:42:28 +0000] [19244] [INFO] Booting worker with pid: 19244
+[2024-05-11 17:19:42 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19199)
+[2024-05-11 17:19:42 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19200)
+[2024-05-11 17:19:42 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19201)
+[2024-05-11 17:19:42 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19202)
+[2024-05-11 17:19:42 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19203)
+[2024-05-11 17:19:42 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19204)
+[2024-05-11 17:19:42 +0000] [238] [CRITICAL] WORKER TIMEOUT (pid:19244)
+[2024-05-11 17:19:42 +0000] [19199] [INFO] Worker exiting (pid: 19199)
+[2024-05-11 17:19:42 +0000] [19200] [INFO] Worker exiting (pid: 19200)
+[2024-05-11 17:19:42 +0000] [19202] [INFO] Worker exiting (pid: 19202)
+[2024-05-11 17:19:42 +0000] [19203] [INFO] Worker exiting (pid: 19203)
+[2024-05-11 17:19:42 +0000] [19204] [INFO] Worker exiting (pid: 19204)
+[2024-05-11 17:19:42 +0000] [19244] [INFO] Worker exiting (pid: 19244)
+[2024-05-11 17:19:42 +0000] [19201] [INFO] Worker exiting (pid: 19201)
+[2024-05-11 17:19:42 +0000] [238] [ERROR] Worker (pid:19200) exited with code 1
+[2024-05-11 17:19:42 +0000] [238] [ERROR] Worker (pid:19200) exited with code 1.
+[2024-05-11 17:19:42 +0000] [19320] [INFO] Booting worker with pid: 19320
+[2024-05-11 17:19:42 +0000] [238] [ERROR] Worker (pid:19201) was sent SIGKILL! Perhaps out of memory?
+--- Logging error ---
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1163, in emit
+    stream.write(msg + self.terminator)
+[2024-05-11 17:19:42 +0000] [238] [ERROR] Worker (pid:19202) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 17:19:42 +0000] [238] [ERROR] Worker (pid:19203) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 17:19:42 +0000] [238] [ERROR] Worker (pid:19244) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 17:19:42 +0000] [238] [ERROR] Unhandled exception in main loop
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1163, in emit
+    stream.write(msg + self.terminator)
+RuntimeError: reentrant call inside <_io.BufferedWriter name='<stderr>'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1163, in emit
+    stream.write(msg + self.terminator)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 554, in reap_workers
+    self.log.error(msg)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/glogging.py", line 272, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1568, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1684, in _log
+    self.handle(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1700, in handle
+    self.callHandlers(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1762, in callHandlers
+    hdlr.handle(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1028, in handle
+    self.emit(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1168, in emit
+    self.handleError(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1081, in handleError
+    sys.stderr.write('--- Logging error ---\n')
+RuntimeError: reentrant call inside <_io.BufferedWriter name='<stderr>'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1163, in emit
+    stream.write(msg + self.terminator)
+RuntimeError: reentrant call inside <_io.BufferedWriter name='<stderr>'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 211, in run
+    self.manage_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 643, in spawn_workers
+    time.sleep(0.1 * random.random())
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 554, in reap_workers
+    self.log.error(msg)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/glogging.py", line 272, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1568, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1684, in _log
+    self.handle(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1700, in handle
+    self.callHandlers(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1762, in callHandlers
+    hdlr.handle(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1028, in handle
+    self.emit(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1168, in emit
+    self.handleError(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1082, in handleError
+    traceback.print_exception(t, v, tb, None, sys.stderr)
+  File "/usr/local/lib/python3.12/traceback.py", line 125, in print_exception
+    te.print(file=file, chain=chain)
+  File "/usr/local/lib/python3.12/traceback.py", line 1050, in print
+    print(line, file=file, end="")
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 554, in reap_workers
+    self.log.error(msg)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/glogging.py", line 272, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1568, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1684, in _log
+    self.handle(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1700, in handle
+    self.callHandlers(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1762, in callHandlers
+    hdlr.handle(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1028, in handle
+    self.emit(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1168, in emit
+    self.handleError(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1081, in handleError
+    sys.stderr.write('--- Logging error ---\n')
+RuntimeError: reentrant call inside <_io.BufferedWriter name='<stderr>'>
+[2024-05-11 17:19:42 +0000] [19320] [INFO] Worker exiting (pid: 19320)
+[2024-05-11 17:19:42 +0000] [19206] [INFO] Worker exiting (pid: 19206)
+[2024-05-11 17:19:44 +0000] [19321] [INFO] Starting gunicorn 21.2.0
+[2024-05-11 17:19:44 +0000] [19321] [INFO] Listening at: http://127.0.0.1:8080 (19321)
+[2024-05-11 17:19:44 +0000] [19321] [INFO] Using worker: gthread
+[2024-05-11 17:19:44 +0000] [19322] [INFO] Booting worker with pid: 19322
+[2024-05-11 17:19:44 +0000] [19323] [INFO] Booting worker with pid: 19323
+[2024-05-11 17:19:44 +0000] [19324] [INFO] Booting worker with pid: 19324
+[2024-05-11 17:19:44 +0000] [19325] [INFO] Booting worker with pid: 19325
+[2024-05-11 17:19:44 +0000] [19326] [INFO] Booting worker with pid: 19326
+[2024-05-11 17:19:44 +0000] [19327] [INFO] Booting worker with pid: 19327
+[2024-05-11 17:19:44 +0000] [19328] [INFO] Booting worker with pid: 19328
+[2024-05-11 17:19:44 +0000] [19329] [INFO] Booting worker with pid: 19329
+[2024-05-11 17:20:53 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19322)
+[2024-05-11 17:20:53 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19323)
+[2024-05-11 17:20:53 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19327)
+[2024-05-11 17:20:53 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19328)
+[2024-05-11 17:20:53 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19329)
+[2024-05-11 17:20:53 +0000] [19322] [INFO] Worker exiting (pid: 19322)
+[2024-05-11 17:20:53 +0000] [19327] [INFO] Worker exiting (pid: 19327)
+[2024-05-11 17:20:53 +0000] [19328] [INFO] Worker exiting (pid: 19328)
+[2024-05-11 17:20:53 +0000] [19323] [INFO] Worker exiting (pid: 19323)
+[2024-05-11 17:20:53 +0000] [19329] [INFO] Worker exiting (pid: 19329)
+[2024-05-11 17:20:53 +0000] [19321] [ERROR] Worker (pid:19327) exited with code 1
+[2024-05-11 17:20:53 +0000] [19321] [ERROR] Worker (pid:19327) exited with code 1.
+[2024-05-11 17:20:53 +0000] [19365] [INFO] Booting worker with pid: 19365
+[2024-05-11 17:20:53 +0000] [19321] [ERROR] Worker (pid:19329) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 17:20:53 +0000] [19321] [ERROR] Worker (pid:19328) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 17:20:53 +0000] [19321] [ERROR] Worker (pid:19323) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 17:20:53 +0000] [19321] [ERROR] Worker (pid:19322) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 17:20:53 +0000] [19366] [INFO] Booting worker with pid: 19366
+[2024-05-11 17:20:53 +0000] [19367] [INFO] Booting worker with pid: 19367
+[2024-05-11 17:20:53 +0000] [19368] [INFO] Booting worker with pid: 19368
+[2024-05-11 17:20:53 +0000] [19369] [INFO] Booting worker with pid: 19369
+[2024-05-11 17:26:03 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19324)
+[2024-05-11 17:26:03 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19366)
+[2024-05-11 17:26:03 +0000] [19324] [INFO] Worker exiting (pid: 19324)
+[2024-05-11 17:26:03 +0000] [19366] [INFO] Worker exiting (pid: 19366)
+[2024-05-11 17:26:03 +0000] [19321] [ERROR] Worker (pid:19366) exited with code 1
+[2024-05-11 17:26:03 +0000] [19321] [ERROR] Worker (pid:19366) exited with code 1.
+[2024-05-11 17:26:03 +0000] [19321] [ERROR] Worker (pid:19324) exited with code 1
+[2024-05-11 17:26:03 +0000] [19321] [ERROR] Worker (pid:19324) exited with code 1.
+[2024-05-11 17:26:03 +0000] [19408] [INFO] Booting worker with pid: 19408
+[2024-05-11 17:26:03 +0000] [19409] [INFO] Booting worker with pid: 19409
+[2024-05-11 17:27:24 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19325)
+[2024-05-11 17:27:24 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19326)
+[2024-05-11 17:27:24 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19365)
+[2024-05-11 17:27:24 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19367)
+[2024-05-11 17:27:24 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19368)
+[2024-05-11 17:27:24 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19369)
+[2024-05-11 17:27:24 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19408)
+[2024-05-11 17:27:24 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19409)
+[2024-05-11 17:27:24 +0000] [19325] [INFO] Worker exiting (pid: 19325)
+[2024-05-11 17:27:24 +0000] [19326] [INFO] Worker exiting (pid: 19326)
+[2024-05-11 17:27:24 +0000] [19365] [INFO] Worker exiting (pid: 19365)
+[2024-05-11 17:27:24 +0000] [19409] [INFO] Worker exiting (pid: 19409)
+[2024-05-11 17:27:24 +0000] [19367] [INFO] Worker exiting (pid: 19367)
+[2024-05-11 17:27:24 +0000] [19369] [INFO] Worker exiting (pid: 19369)
+[2024-05-11 17:27:24 +0000] [19368] [INFO] Worker exiting (pid: 19368)
+[2024-05-11 17:27:24 +0000] [19408] [INFO] Worker exiting (pid: 19408)
+[2024-05-11 17:27:25 +0000] [19321] [ERROR] Worker (pid:19369) exited with code 1
+[2024-05-11 17:27:25 +0000] [19321] [ERROR] Worker (pid:19369) exited with code 1.
+[2024-05-11 17:27:25 +0000] [19321] [ERROR] Worker (pid:19326) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 17:27:25 +0000] [19321] [ERROR] Worker (pid:19408) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 17:27:25 +0000] [19321] [ERROR] Worker (pid:19325) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 17:27:25 +0000] [19441] [INFO] Booting worker with pid: 19441
+[2024-05-11 17:27:25 +0000] [19321] [ERROR] Worker (pid:19368) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 17:27:25 +0000] [19321] [ERROR] Worker (pid:19409) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 17:27:25 +0000] [19321] [ERROR] Worker (pid:19365) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 17:27:25 +0000] [19321] [ERROR] Worker (pid:19367) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 17:27:25 +0000] [19442] [INFO] Booting worker with pid: 19442
+[2024-05-11 17:27:25 +0000] [19443] [INFO] Booting worker with pid: 19443
+[2024-05-11 17:27:25 +0000] [19444] [INFO] Booting worker with pid: 19444
+[2024-05-11 17:27:25 +0000] [19445] [INFO] Booting worker with pid: 19445
+[2024-05-11 17:27:25 +0000] [19446] [INFO] Booting worker with pid: 19446
+[2024-05-11 17:27:25 +0000] [19447] [INFO] Booting worker with pid: 19447
+[2024-05-11 17:27:25 +0000] [19448] [INFO] Booting worker with pid: 19448
+[2024-05-11 18:42:32 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19441)
+[2024-05-11 18:42:32 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19442)
+[2024-05-11 18:42:32 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19443)
+[2024-05-11 18:42:32 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19444)
+[2024-05-11 18:42:32 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19445)
+[2024-05-11 18:42:32 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19446)
+[2024-05-11 18:42:32 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19447)
+[2024-05-11 18:42:32 +0000] [19441] [INFO] Worker exiting (pid: 19441)
+[2024-05-11 18:42:32 +0000] [19442] [INFO] Worker exiting (pid: 19442)
+[2024-05-11 18:42:32 +0000] [19443] [INFO] Worker exiting (pid: 19443)
+[2024-05-11 18:42:32 +0000] [19444] [INFO] Worker exiting (pid: 19444)
+[2024-05-11 18:42:32 +0000] [19445] [INFO] Worker exiting (pid: 19445)
+[2024-05-11 18:42:32 +0000] [19447] [INFO] Worker exiting (pid: 19447)
+[2024-05-11 18:42:32 +0000] [19446] [INFO] Worker exiting (pid: 19446)
+[2024-05-11 18:42:32 +0000] [19321] [ERROR] Worker (pid:19443) exited with code 1
+[2024-05-11 18:42:32 +0000] [19321] [ERROR] Worker (pid:19443) exited with code 1.
+[2024-05-11 18:42:32 +0000] [19321] [ERROR] Worker (pid:19444) exited with code 1
+[2024-05-11 18:42:32 +0000] [19321] [ERROR] Worker (pid:19444) exited with code 1.
+[2024-05-11 18:42:32 +0000] [19321] [ERROR] Worker (pid:19446) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 18:42:32 +0000] [19523] [INFO] Booting worker with pid: 19523
+[2024-05-11 18:42:32 +0000] [19321] [ERROR] Worker (pid:19441) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 18:42:32 +0000] [19321] [ERROR] Worker (pid:19445) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 18:42:32 +0000] [19321] [ERROR] Worker (pid:19447) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 18:42:32 +0000] [19321] [ERROR] Worker (pid:19442) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 18:42:32 +0000] [19524] [INFO] Booting worker with pid: 19524
+[2024-05-11 18:42:33 +0000] [19525] [INFO] Booting worker with pid: 19525
+[2024-05-11 18:42:33 +0000] [19526] [INFO] Booting worker with pid: 19526
+[2024-05-11 18:42:33 +0000] [19527] [INFO] Booting worker with pid: 19527
+[2024-05-11 18:42:33 +0000] [19528] [INFO] Booting worker with pid: 19528
+[2024-05-11 18:42:33 +0000] [19529] [INFO] Booting worker with pid: 19529
+[2024-05-11 18:44:48 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19529)
+[2024-05-11 18:44:48 +0000] [19529] [INFO] Worker exiting (pid: 19529)
+[2024-05-11 18:44:49 +0000] [19321] [ERROR] Worker (pid:19529) exited with code 1
+[2024-05-11 18:44:49 +0000] [19321] [ERROR] Worker (pid:19529) exited with code 1.
+[2024-05-11 18:44:49 +0000] [19566] [INFO] Booting worker with pid: 19566
+[2024-05-11 18:47:15 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19524)
+[2024-05-11 18:47:15 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19525)
+[2024-05-11 18:47:15 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19526)
+[2024-05-11 18:47:15 +0000] [19524] [INFO] Worker exiting (pid: 19524)
+[2024-05-11 18:47:15 +0000] [19525] [INFO] Worker exiting (pid: 19525)
+[2024-05-11 18:47:15 +0000] [19526] [INFO] Worker exiting (pid: 19526)
+[2024-05-11 18:47:15 +0000] [19321] [ERROR] Worker (pid:19525) exited with code 1
+--- Logging error ---
+[2024-05-11 18:47:15 +0000] [19321] [ERROR] Worker (pid:19524) exited with code 1
+[2024-05-11 18:47:15 +0000] [19321] [ERROR] Worker (pid:19524) exited with code 1.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1163, in emit
+    stream.write(msg + self.terminator)
+RuntimeError: reentrant call inside <_io.BufferedWriter name='<stderr>'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1163, in emit
+    stream.write(msg + self.terminator)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 527, in reap_workers
+    self.log.error('Worker (pid:%s) exited with code %s', wpid, exitcode)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/glogging.py", line 272, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1568, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1684, in _log
+    self.handle(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1700, in handle
+    self.callHandlers(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1762, in callHandlers
+    hdlr.handle(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1028, in handle
+    self.emit(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1168, in emit
+    self.handleError(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1081, in handleError
+    sys.stderr.write('--- Logging error ---\n')
+RuntimeError: reentrant call inside <_io.BufferedWriter name='<stderr>'>
+Call stack:
+  File "/usr/local/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 209, in run
+    self.sleep()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 360, in sleep
+    ready = select.select([self.PIPE[0]], [], [], 1.0)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 527, in reap_workers
+    self.log.error('Worker (pid:%s) exited with code %s', wpid, exitcode)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/glogging.py", line 272, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:%s) exited with code %s'
+Arguments: (19525, 1)
+[2024-05-11 18:47:15 +0000] [19321] [ERROR] Worker (pid:19525) exited with code 1.
+[2024-05-11 18:47:15 +0000] [19605] [INFO] Booting worker with pid: 19605
+[2024-05-11 18:47:15 +0000] [19606] [INFO] Booting worker with pid: 19606
+[2024-05-11 18:47:16 +0000] [19607] [INFO] Booting worker with pid: 19607
+[2024-05-11 19:11:51 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19448)
+[2024-05-11 19:11:51 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19523)
+[2024-05-11 19:11:51 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19527)
+[2024-05-11 19:11:51 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19528)
+[2024-05-11 19:11:51 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19566)
+[2024-05-11 19:11:51 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19607)
+[2024-05-11 19:11:51 +0000] [19523] [INFO] Worker exiting (pid: 19523)
+[2024-05-11 19:11:51 +0000] [19448] [INFO] Worker exiting (pid: 19448)
+[2024-05-11 19:11:51 +0000] [19527] [INFO] Worker exiting (pid: 19527)
+[2024-05-11 19:11:51 +0000] [19528] [INFO] Worker exiting (pid: 19528)
+[2024-05-11 19:11:51 +0000] [19607] [INFO] Worker exiting (pid: 19607)
+[2024-05-11 19:11:51 +0000] [19566] [INFO] Worker exiting (pid: 19566)
+[2024-05-11 19:11:51 +0000] [19321] [ERROR] Worker (pid:19527) exited with code 1
+[2024-05-11 19:11:51 +0000] [19321] [ERROR] Worker (pid:19527) exited with code 1.
+[2024-05-11 19:11:51 +0000] [19321] [ERROR] Worker (pid:19607) exited with code 1
+[2024-05-11 19:11:51 +0000] [19321] [ERROR] Worker (pid:19607) exited with code 1.
+[2024-05-11 19:11:51 +0000] [19644] [INFO] Booting worker with pid: 19644
+[2024-05-11 19:11:51 +0000] [19321] [ERROR] Worker (pid:19528) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 19:11:51 +0000] [19321] [ERROR] Worker (pid:19523) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 19:11:51 +0000] [19321] [ERROR] Worker (pid:19448) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 19:11:51 +0000] [19321] [ERROR] Worker (pid:19566) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 19:11:51 +0000] [19645] [INFO] Booting worker with pid: 19645
+[2024-05-11 19:11:51 +0000] [19646] [INFO] Booting worker with pid: 19646
+[2024-05-11 19:11:51 +0000] [19647] [INFO] Booting worker with pid: 19647
+[2024-05-11 19:11:51 +0000] [19648] [INFO] Booting worker with pid: 19648
+[2024-05-11 19:11:51 +0000] [19649] [INFO] Booting worker with pid: 19649
+[2024-05-11 20:00:44 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19605)
+[2024-05-11 20:00:44 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19606)
+[2024-05-11 20:00:44 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19644)
+[2024-05-11 20:00:44 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19645)
+[2024-05-11 20:00:44 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19646)
+[2024-05-11 20:00:44 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19647)
+[2024-05-11 20:00:44 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19648)
+[2024-05-11 20:00:44 +0000] [19605] [INFO] Worker exiting (pid: 19605)
+[2024-05-11 20:00:44 +0000] [19606] [INFO] Worker exiting (pid: 19606)
+[2024-05-11 20:00:44 +0000] [19644] [INFO] Worker exiting (pid: 19644)
+[2024-05-11 20:00:44 +0000] [19645] [INFO] Worker exiting (pid: 19645)
+[2024-05-11 20:00:44 +0000] [19648] [INFO] Worker exiting (pid: 19648)
+[2024-05-11 20:00:44 +0000] [19646] [INFO] Worker exiting (pid: 19646)
+[2024-05-11 20:00:44 +0000] [19647] [INFO] Worker exiting (pid: 19647)
+[2024-05-11 20:00:44 +0000] [19321] [ERROR] Worker (pid:19646) exited with code 1
+[2024-05-11 20:00:44 +0000] [19321] [ERROR] Worker (pid:19646) exited with code 1.
+[2024-05-11 20:00:44 +0000] [19321] [ERROR] Worker (pid:19647) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 20:00:44 +0000] [19321] [ERROR] Worker (pid:19644) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 20:00:44 +0000] [19321] [ERROR] Worker (pid:19645) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 20:00:44 +0000] [19722] [INFO] Booting worker with pid: 19722
+[2024-05-11 20:00:44 +0000] [19321] [ERROR] Worker (pid:19605) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 20:00:44 +0000] [19321] [ERROR] Worker (pid:19606) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 20:00:44 +0000] [19321] [ERROR] Worker (pid:19648) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 20:00:44 +0000] [19723] [INFO] Booting worker with pid: 19723
+[2024-05-11 20:00:44 +0000] [19724] [INFO] Booting worker with pid: 19724
+[2024-05-11 20:00:44 +0000] [19725] [INFO] Booting worker with pid: 19725
+[2024-05-11 20:00:45 +0000] [19726] [INFO] Booting worker with pid: 19726
+[2024-05-11 20:00:45 +0000] [19727] [INFO] Booting worker with pid: 19727
+[2024-05-11 20:00:45 +0000] [19728] [INFO] Booting worker with pid: 19728
+[2024-05-11 20:18:44 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19727)
+[2024-05-11 20:18:44 +0000] [19727] [INFO] Worker exiting (pid: 19727)
+[2024-05-11 20:18:44 +0000] [19321] [ERROR] Worker (pid:19727) exited with code 1
+[2024-05-11 20:18:44 +0000] [19321] [ERROR] Worker (pid:19727) exited with code 1.
+[2024-05-11 20:18:44 +0000] [19766] [INFO] Booting worker with pid: 19766
+[2024-05-11 21:03:26 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19649)
+[2024-05-11 21:03:26 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19722)
+[2024-05-11 21:03:26 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19723)
+[2024-05-11 21:03:26 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19724)
+[2024-05-11 21:03:26 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19725)
+[2024-05-11 21:03:26 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19726)
+[2024-05-11 21:03:26 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19728)
+[2024-05-11 21:03:26 +0000] [19728] [INFO] Worker exiting (pid: 19728)
+[2024-05-11 21:03:26 +0000] [19726] [INFO] Worker exiting (pid: 19726)
+[2024-05-11 21:03:26 +0000] [19649] [INFO] Worker exiting (pid: 19649)
+[2024-05-11 21:03:26 +0000] [19724] [INFO] Worker exiting (pid: 19724)
+[2024-05-11 21:03:26 +0000] [19725] [INFO] Worker exiting (pid: 19725)
+[2024-05-11 21:03:26 +0000] [19722] [INFO] Worker exiting (pid: 19722)
+[2024-05-11 21:03:26 +0000] [19723] [INFO] Worker exiting (pid: 19723)
+[2024-05-11 21:03:27 +0000] [19321] [ERROR] Worker (pid:19726) exited with code 1
+[2024-05-11 21:03:27 +0000] [19321] [ERROR] Worker (pid:19726) exited with code 1.
+[2024-05-11 21:03:27 +0000] [19321] [ERROR] Worker (pid:19723) exited with code 1
+[2024-05-11 21:03:27 +0000] [19321] [ERROR] Worker (pid:19723) exited with code 1.
+[2024-05-11 21:03:27 +0000] [19798] [INFO] Booting worker with pid: 19798
+[2024-05-11 21:03:27 +0000] [19321] [ERROR] Worker (pid:19724) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 21:03:27 +0000] [19321] [ERROR] Worker (pid:19649) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 21:03:27 +0000] [19321] [ERROR] Worker (pid:19725) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 21:03:27 +0000] [19321] [ERROR] Worker (pid:19722) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 21:03:27 +0000] [19321] [ERROR] Worker (pid:19728) was sent SIGKILL! Perhaps out of memory?
+[2024-05-11 21:03:27 +0000] [19799] [INFO] Booting worker with pid: 19799
+[2024-05-11 21:03:27 +0000] [19800] [INFO] Booting worker with pid: 19800
+[2024-05-11 21:03:27 +0000] [19801] [INFO] Booting worker with pid: 19801
+[2024-05-11 21:03:27 +0000] [19802] [INFO] Booting worker with pid: 19802
+[2024-05-11 21:03:27 +0000] [19803] [INFO] Booting worker with pid: 19803
+[2024-05-11 21:03:27 +0000] [19804] [INFO] Booting worker with pid: 19804
+[2024-05-11 21:47:10 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19798)
+[2024-05-11 21:47:10 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19799)
+[2024-05-11 21:47:10 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19800)
+[2024-05-11 21:47:10 +0000] [19798] [INFO] Worker exiting (pid: 19798)
+[2024-05-11 21:47:10 +0000] [19800] [INFO] Worker exiting (pid: 19800)
+[2024-05-11 21:47:10 +0000] [19799] [INFO] Worker exiting (pid: 19799)
+[2024-05-11 21:47:10 +0000] [19321] [ERROR] Worker (pid:19798) exited with code 1
+[2024-05-11 21:47:10 +0000] [19321] [ERROR] Worker (pid:19798) exited with code 1.
+[2024-05-11 21:47:10 +0000] [19321] [ERROR] Worker (pid:19800) exited with code 1
+[2024-05-11 21:47:10 +0000] [19321] [ERROR] Worker (pid:19800) exited with code 1.
+[2024-05-11 21:47:10 +0000] [19321] [ERROR] Worker (pid:19799) exited with code 1
+[2024-05-11 21:47:10 +0000] [19321] [ERROR] Worker (pid:19799) exited with code 1.
+[2024-05-11 21:47:10 +0000] [19842] [INFO] Booting worker with pid: 19842
+[2024-05-11 21:47:10 +0000] [19843] [INFO] Booting worker with pid: 19843
+[2024-05-11 21:47:11 +0000] [19844] [INFO] Booting worker with pid: 19844
+[2024-05-11 23:03:43 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19802)
+[2024-05-11 23:03:43 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19803)
+[2024-05-11 23:03:43 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19844)
+[2024-05-11 23:03:43 +0000] [19802] [INFO] Worker exiting (pid: 19802)
+[2024-05-11 23:03:43 +0000] [19844] [INFO] Worker exiting (pid: 19844)
+[2024-05-11 23:03:43 +0000] [19803] [INFO] Worker exiting (pid: 19803)
+[2024-05-11 23:03:43 +0000] [19321] [ERROR] Worker (pid:19803) exited with code 1
+[2024-05-11 23:03:43 +0000] [19321] [ERROR] Worker (pid:19803) exited with code 1.
+[2024-05-11 23:03:43 +0000] [19321] [ERROR] Worker (pid:19844) exited with code 1
+[2024-05-11 23:03:43 +0000] [19321] [ERROR] Worker (pid:19844) exited with code 1.
+[2024-05-11 23:03:43 +0000] [19321] [ERROR] Worker (pid:19802) exited with code 1
+[2024-05-11 23:03:43 +0000] [19321] [ERROR] Worker (pid:19802) exited with code 1.
+[2024-05-11 23:03:43 +0000] [19881] [INFO] Booting worker with pid: 19881
+[2024-05-11 23:03:43 +0000] [19882] [INFO] Booting worker with pid: 19882
+[2024-05-11 23:03:43 +0000] [19883] [INFO] Booting worker with pid: 19883
+[2024-05-12 00:20:40 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19881)
+[2024-05-12 00:20:40 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19882)
+[2024-05-12 00:20:40 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19883)
+[2024-05-12 00:20:40 +0000] [19882] [INFO] Worker exiting (pid: 19882)
+[2024-05-12 00:20:40 +0000] [19883] [INFO] Worker exiting (pid: 19883)
+[2024-05-12 00:20:40 +0000] [19881] [INFO] Worker exiting (pid: 19881)
+[2024-05-12 00:20:40 +0000] [19321] [ERROR] Worker (pid:19881) exited with code 1
+[2024-05-12 00:20:40 +0000] [19321] [ERROR] Worker (pid:19881) exited with code 1.
+[2024-05-12 00:20:40 +0000] [19922] [INFO] Booting worker with pid: 19922
+[2024-05-12 00:20:40 +0000] [19321] [ERROR] Worker (pid:19883) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 00:20:40 +0000] [19321] [ERROR] Worker (pid:19882) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 00:20:40 +0000] [19923] [INFO] Booting worker with pid: 19923
+[2024-05-12 00:20:40 +0000] [19924] [INFO] Booting worker with pid: 19924
+[2024-05-12 01:32:45 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19766)
+[2024-05-12 01:32:45 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19801)
+[2024-05-12 01:32:45 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19804)
+[2024-05-12 01:32:45 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19842)
+[2024-05-12 01:32:45 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19843)
+[2024-05-12 01:32:45 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19922)
+[2024-05-12 01:32:45 +0000] [19922] [INFO] Worker exiting (pid: 19922)
+[2024-05-12 01:32:45 +0000] [19801] [INFO] Worker exiting (pid: 19801)
+[2024-05-12 01:32:45 +0000] [19843] [INFO] Worker exiting (pid: 19843)
+[2024-05-12 01:32:45 +0000] [19766] [INFO] Worker exiting (pid: 19766)
+[2024-05-12 01:32:45 +0000] [19842] [INFO] Worker exiting (pid: 19842)
+[2024-05-12 01:32:45 +0000] [19804] [INFO] Worker exiting (pid: 19804)
+[2024-05-12 01:32:46 +0000] [19321] [ERROR] Worker (pid:19766) exited with code 1
+[2024-05-12 01:32:46 +0000] [19321] [ERROR] Worker (pid:19766) exited with code 1.
+[2024-05-12 01:32:46 +0000] [19321] [ERROR] Worker (pid:19801) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 01:32:46 +0000] [19962] [INFO] Booting worker with pid: 19962
+[2024-05-12 01:32:46 +0000] [19321] [ERROR] Worker (pid:19842) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 01:32:46 +0000] [19321] [ERROR] Worker (pid:19922) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 01:32:46 +0000] [19321] [ERROR] Worker (pid:19843) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 01:32:46 +0000] [19321] [ERROR] Worker (pid:19804) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 01:32:46 +0000] [19963] [INFO] Booting worker with pid: 19963
+[2024-05-12 01:32:46 +0000] [19964] [INFO] Booting worker with pid: 19964
+[2024-05-12 01:32:46 +0000] [19965] [INFO] Booting worker with pid: 19965
+[2024-05-12 01:32:46 +0000] [19966] [INFO] Booting worker with pid: 19966
+[2024-05-12 01:32:46 +0000] [19967] [INFO] Booting worker with pid: 19967
+[2024-05-12 02:01:55 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19963)
+[2024-05-12 02:01:55 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19964)
+[2024-05-12 02:01:55 +0000] [19963] [INFO] Worker exiting (pid: 19963)
+[2024-05-12 02:01:55 +0000] [19964] [INFO] Worker exiting (pid: 19964)
+[2024-05-12 02:01:55 +0000] [19321] [ERROR] Worker (pid:19963) exited with code 1
+[2024-05-12 02:01:55 +0000] [19321] [ERROR] Worker (pid:19963) exited with code 1.
+[2024-05-12 02:01:55 +0000] [19321] [ERROR] Worker (pid:19964) exited with code 1
+[2024-05-12 02:01:55 +0000] [19321] [ERROR] Worker (pid:19964) exited with code 1.
+[2024-05-12 02:01:55 +0000] [20005] [INFO] Booting worker with pid: 20005
+[2024-05-12 02:01:55 +0000] [20006] [INFO] Booting worker with pid: 20006
+[2024-05-12 02:03:08 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19923)
+[2024-05-12 02:03:08 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19924)
+[2024-05-12 02:03:08 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19962)
+[2024-05-12 02:03:08 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19965)
+[2024-05-12 02:03:08 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19966)
+[2024-05-12 02:03:08 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20006)
+[2024-05-12 02:03:08 +0000] [19924] [INFO] Worker exiting (pid: 19924)
+[2024-05-12 02:03:08 +0000] [19962] [INFO] Worker exiting (pid: 19962)
+[2024-05-12 02:03:08 +0000] [19923] [INFO] Worker exiting (pid: 19923)
+[2024-05-12 02:03:08 +0000] [20006] [INFO] Worker exiting (pid: 20006)
+[2024-05-12 02:03:08 +0000] [19966] [INFO] Worker exiting (pid: 19966)
+[2024-05-12 02:03:08 +0000] [19965] [INFO] Worker exiting (pid: 19965)
+[2024-05-12 02:03:08 +0000] [19321] [ERROR] Worker (pid:19924) exited with code 1
+[2024-05-12 02:03:08 +0000] [19321] [ERROR] Worker (pid:19924) exited with code 1.
+[2024-05-12 02:03:08 +0000] [19321] [ERROR] Worker (pid:19923) exited with code 1
+[2024-05-12 02:03:08 +0000] [19321] [ERROR] Worker (pid:19923) exited with code 1.
+[2024-05-12 02:03:08 +0000] [20043] [INFO] Booting worker with pid: 20043
+[2024-05-12 02:03:08 +0000] [19321] [ERROR] Worker (pid:19965) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 02:03:08 +0000] [19321] [ERROR] Worker (pid:19962) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 02:03:08 +0000] [19321] [ERROR] Worker (pid:20006) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 02:03:08 +0000] [19321] [ERROR] Worker (pid:19966) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 02:03:08 +0000] [20044] [INFO] Booting worker with pid: 20044
+[2024-05-12 02:03:08 +0000] [20045] [INFO] Booting worker with pid: 20045
+[2024-05-12 02:03:08 +0000] [20046] [INFO] Booting worker with pid: 20046
+[2024-05-12 02:03:08 +0000] [20047] [INFO] Booting worker with pid: 20047
+[2024-05-12 02:03:08 +0000] [20048] [INFO] Booting worker with pid: 20048
+[2024-05-12 03:06:19 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:19967)
+[2024-05-12 03:06:19 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20005)
+[2024-05-12 03:06:19 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20043)
+[2024-05-12 03:06:19 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20046)
+[2024-05-12 03:06:19 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20048)
+[2024-05-12 03:06:19 +0000] [19967] [INFO] Worker exiting (pid: 19967)
+[2024-05-12 03:06:19 +0000] [20005] [INFO] Worker exiting (pid: 20005)
+[2024-05-12 03:06:19 +0000] [20046] [INFO] Worker exiting (pid: 20046)
+[2024-05-12 03:06:19 +0000] [20043] [INFO] Worker exiting (pid: 20043)
+[2024-05-12 03:06:19 +0000] [20048] [INFO] Worker exiting (pid: 20048)
+[2024-05-12 03:06:20 +0000] [19321] [ERROR] Worker (pid:20005) exited with code 1
+[2024-05-12 03:06:20 +0000] [19321] [ERROR] Worker (pid:20005) exited with code 1.
+[2024-05-12 03:06:20 +0000] [20151] [INFO] Booting worker with pid: 20151
+[2024-05-12 03:06:20 +0000] [19321] [ERROR] Worker (pid:20043) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 03:06:20 +0000] [19321] [ERROR] Worker (pid:20046) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 03:06:20 +0000] [19321] [ERROR] Worker (pid:20048) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 03:06:20 +0000] [19321] [ERROR] Worker (pid:19967) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 03:06:20 +0000] [20152] [INFO] Booting worker with pid: 20152
+[2024-05-12 03:06:20 +0000] [20153] [INFO] Booting worker with pid: 20153
+[2024-05-12 03:06:20 +0000] [20154] [INFO] Booting worker with pid: 20154
+[2024-05-12 03:06:20 +0000] [20155] [INFO] Booting worker with pid: 20155
+[2024-05-12 03:08:23 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20155)
+[2024-05-12 03:08:23 +0000] [20155] [INFO] Worker exiting (pid: 20155)
+[2024-05-12 03:08:23 +0000] [19321] [ERROR] Worker (pid:20155) exited with code 1
+[2024-05-12 03:08:23 +0000] [19321] [ERROR] Worker (pid:20155) exited with code 1.
+[2024-05-12 03:08:23 +0000] [20192] [INFO] Booting worker with pid: 20192
+[2024-05-12 03:11:37 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20044)
+[2024-05-12 03:11:37 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20045)
+[2024-05-12 03:11:37 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20047)
+[2024-05-12 03:11:37 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20151)
+[2024-05-12 03:11:37 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20152)
+[2024-05-12 03:11:37 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20153)
+[2024-05-12 03:11:37 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20154)
+[2024-05-12 03:11:37 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20192)
+[2024-05-12 03:11:37 +0000] [20045] [INFO] Worker exiting (pid: 20045)
+[2024-05-12 03:11:37 +0000] [20044] [INFO] Worker exiting (pid: 20044)
+[2024-05-12 03:11:37 +0000] [20047] [INFO] Worker exiting (pid: 20047)
+[2024-05-12 03:11:37 +0000] [20192] [INFO] Worker exiting (pid: 20192)
+[2024-05-12 03:11:37 +0000] [20153] [INFO] Worker exiting (pid: 20153)
+[2024-05-12 03:11:37 +0000] [20154] [INFO] Worker exiting (pid: 20154)
+[2024-05-12 03:11:37 +0000] [20151] [INFO] Worker exiting (pid: 20151)
+[2024-05-12 03:11:37 +0000] [20152] [INFO] Worker exiting (pid: 20152)
+[2024-05-12 03:11:37 +0000] [19321] [ERROR] Worker (pid:20153) exited with code 1
+[2024-05-12 03:11:37 +0000] [19321] [ERROR] Worker (pid:20153) exited with code 1.
+[2024-05-12 03:11:37 +0000] [20266] [INFO] Booting worker with pid: 20266
+[2024-05-12 03:11:37 +0000] [19321] [ERROR] Worker (pid:20047) was sent SIGKILL! Perhaps out of memory?
+--- Logging error ---
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1163, in emit
+    stream.write(msg + self.terminator)
+RuntimeError: reentrant call inside <_io.BufferedWriter name='<stderr>'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1163, in emit
+    stream.write(msg + self.terminator)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 554, in reap_workers
+    self.log.error(msg)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/glogging.py", line 272, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1568, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1684, in _log
+    self.handle(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1700, in handle
+    self.callHandlers(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1762, in callHandlers
+    hdlr.handle(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1028, in handle
+    self.emit(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1168, in emit
+    self.handleError(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1081, in handleError
+    sys.stderr.write('--- Logging error ---\n')
+RuntimeError: reentrant call inside <_io.BufferedWriter name='<stderr>'>
+Call stack:
+  File "/usr/local/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 211, in run
+    self.manage_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 643, in spawn_workers
+    time.sleep(0.1 * random.random())
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 554, in reap_workers
+    self.log.error(msg)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/glogging.py", line 272, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1568, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1684, in _log
+    self.handle(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1700, in handle
+    self.callHandlers(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1762, in callHandlers
+    hdlr.handle(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1028, in handle
+    self.emit(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1160, in emit
+    msg = self.format(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 999, in format
+    return fmt.format(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 704, in format
+    if self.usesTime():
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 668, in usesTime
+    def usesTime(self):
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 554, in reap_workers
+    self.log.error(msg)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/glogging.py", line 272, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:20047) was sent SIGKILL! Perhaps out of memory?'
+Arguments: ()
+[2024-05-12 03:11:37 +0000] [19321] [ERROR] Worker (pid:20151) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 03:11:37 +0000] [19321] [ERROR] Worker (pid:20192) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 03:11:37 +0000] [19321] [ERROR] Worker (pid:20152) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 03:11:37 +0000] [19321] [ERROR] Worker (pid:20044) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 03:11:37 +0000] [19321] [ERROR] Worker (pid:20045) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 03:11:37 +0000] [20267] [INFO] Booting worker with pid: 20267
+[2024-05-12 03:11:37 +0000] [20268] [INFO] Booting worker with pid: 20268
+[2024-05-12 03:11:37 +0000] [20269] [INFO] Booting worker with pid: 20269
+[2024-05-12 03:11:37 +0000] [20270] [INFO] Booting worker with pid: 20270
+[2024-05-12 03:11:37 +0000] [20271] [INFO] Booting worker with pid: 20271
+[2024-05-12 03:11:37 +0000] [20272] [INFO] Booting worker with pid: 20272
+[2024-05-12 03:11:37 +0000] [20273] [INFO] Booting worker with pid: 20273
+[2024-05-12 03:34:48 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20272)
+[2024-05-12 03:34:48 +0000] [20272] [INFO] Worker exiting (pid: 20272)
+[2024-05-12 03:34:48 +0000] [19321] [ERROR] Worker (pid:20272) exited with code 1
+[2024-05-12 03:34:48 +0000] [19321] [ERROR] Worker (pid:20272) exited with code 1.
+[2024-05-12 03:34:48 +0000] [20311] [INFO] Booting worker with pid: 20311
+[2024-05-12 03:36:09 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20266)
+[2024-05-12 03:36:09 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20267)
+[2024-05-12 03:36:09 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20269)
+[2024-05-12 03:36:09 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20270)
+[2024-05-12 03:36:09 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20271)
+[2024-05-12 03:36:09 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20273)
+[2024-05-12 03:36:09 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20311)
+[2024-05-12 03:36:09 +0000] [20311] [INFO] Worker exiting (pid: 20311)
+[2024-05-12 03:36:09 +0000] [20269] [INFO] Worker exiting (pid: 20269)
+[2024-05-12 03:36:09 +0000] [20266] [INFO] Worker exiting (pid: 20266)
+[2024-05-12 03:36:09 +0000] [20273] [INFO] Worker exiting (pid: 20273)
+[2024-05-12 03:36:09 +0000] [20271] [INFO] Worker exiting (pid: 20271)
+[2024-05-12 03:36:09 +0000] [20267] [INFO] Worker exiting (pid: 20267)
+[2024-05-12 03:36:09 +0000] [20270] [INFO] Worker exiting (pid: 20270)
+[2024-05-12 03:36:09 +0000] [19321] [ERROR] Worker (pid:20266) exited with code 1
+[2024-05-12 03:36:09 +0000] [19321] [ERROR] Worker (pid:20266) exited with code 1.
+[2024-05-12 03:36:09 +0000] [19321] [ERROR] Worker (pid:20273) exited with code 1
+[2024-05-12 03:36:09 +0000] [19321] [ERROR] Worker (pid:20273) exited with code 1.
+[2024-05-12 03:36:09 +0000] [19321] [ERROR] Worker (pid:20267) exited with code 1
+[2024-05-12 03:36:09 +0000] [19321] [ERROR] Worker (pid:20267) exited with code 1.
+[2024-05-12 03:36:09 +0000] [20347] [INFO] Booting worker with pid: 20347
+[2024-05-12 03:36:09 +0000] [19321] [ERROR] Worker (pid:20269) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 03:36:09 +0000] [19321] [ERROR] Worker (pid:20270) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 03:36:09 +0000] [19321] [ERROR] Worker (pid:20311) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 03:36:09 +0000] [19321] [ERROR] Worker (pid:20271) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 03:36:09 +0000] [20348] [INFO] Booting worker with pid: 20348
+[2024-05-12 03:36:09 +0000] [20349] [INFO] Booting worker with pid: 20349
+[2024-05-12 03:36:09 +0000] [20350] [INFO] Booting worker with pid: 20350
+[2024-05-12 03:36:09 +0000] [20351] [INFO] Booting worker with pid: 20351
+[2024-05-12 03:36:09 +0000] [20352] [INFO] Booting worker with pid: 20352
+[2024-05-12 03:36:09 +0000] [20353] [INFO] Booting worker with pid: 20353
+[2024-05-12 04:35:48 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20351)
+[2024-05-12 04:35:48 +0000] [20351] [INFO] Worker exiting (pid: 20351)
+[2024-05-12 04:35:48 +0000] [19321] [ERROR] Worker (pid:20351) exited with code 1
+[2024-05-12 04:35:48 +0000] [19321] [ERROR] Worker (pid:20351) exited with code 1.
+[2024-05-12 04:35:48 +0000] [20391] [INFO] Booting worker with pid: 20391
+[2024-05-12 05:36:39 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20268)
+[2024-05-12 05:36:39 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20347)
+[2024-05-12 05:36:39 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20348)
+[2024-05-12 05:36:39 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20349)
+[2024-05-12 05:36:39 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20350)
+[2024-05-12 05:36:39 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20352)
+[2024-05-12 05:36:39 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20353)
+[2024-05-12 05:36:39 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20391)
+[2024-05-12 05:36:39 +0000] [20352] [INFO] Worker exiting (pid: 20352)
+[2024-05-12 05:36:39 +0000] [20350] [INFO] Worker exiting (pid: 20350)
+[2024-05-12 05:36:39 +0000] [20349] [INFO] Worker exiting (pid: 20349)
+[2024-05-12 05:36:39 +0000] [20347] [INFO] Worker exiting (pid: 20347)
+[2024-05-12 05:36:39 +0000] [20348] [INFO] Worker exiting (pid: 20348)
+[2024-05-12 05:36:39 +0000] [20391] [INFO] Worker exiting (pid: 20391)
+[2024-05-12 05:36:39 +0000] [20268] [INFO] Worker exiting (pid: 20268)
+[2024-05-12 05:36:39 +0000] [20353] [INFO] Worker exiting (pid: 20353)
+[2024-05-12 05:36:40 +0000] [19321] [ERROR] Worker (pid:20348) exited with code 1
+[2024-05-12 05:36:40 +0000] [19321] [ERROR] Worker (pid:20348) exited with code 1.
+[2024-05-12 05:36:40 +0000] [20427] [INFO] Booting worker with pid: 20427
+[2024-05-12 05:36:40 +0000] [19321] [ERROR] Worker (pid:20353) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 05:36:40 +0000] [19321] [ERROR] Worker (pid:20347) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 05:36:40 +0000] [19321] [ERROR] Worker (pid:20268) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 05:36:40 +0000] [19321] [ERROR] Worker (pid:20352) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 05:36:40 +0000] [19321] [ERROR] Worker (pid:20350) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 05:36:40 +0000] [19321] [ERROR] Worker (pid:20349) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 05:36:40 +0000] [19321] [ERROR] Worker (pid:20391) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 05:36:40 +0000] [20428] [INFO] Booting worker with pid: 20428
+[2024-05-12 05:36:40 +0000] [20429] [INFO] Booting worker with pid: 20429
+[2024-05-12 05:36:40 +0000] [20430] [INFO] Booting worker with pid: 20430
+[2024-05-12 05:36:40 +0000] [20431] [INFO] Booting worker with pid: 20431
+[2024-05-12 05:36:40 +0000] [20432] [INFO] Booting worker with pid: 20432
+[2024-05-12 05:36:40 +0000] [20433] [INFO] Booting worker with pid: 20433
+[2024-05-12 05:36:40 +0000] [20434] [INFO] Booting worker with pid: 20434
+[2024-05-12 06:29:13 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20427)
+[2024-05-12 06:29:13 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20433)
+[2024-05-12 06:29:13 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20434)
+[2024-05-12 06:29:13 +0000] [20427] [INFO] Worker exiting (pid: 20427)
+[2024-05-12 06:29:13 +0000] [20433] [INFO] Worker exiting (pid: 20433)
+[2024-05-12 06:29:13 +0000] [20434] [INFO] Worker exiting (pid: 20434)
+[2024-05-12 06:29:13 +0000] [19321] [ERROR] Worker (pid:20434) exited with code 1
+[2024-05-12 06:29:13 +0000] [19321] [ERROR] Worker (pid:20434) exited with code 1.
+[2024-05-12 06:29:13 +0000] [19321] [ERROR] Worker (pid:20427) exited with code 1
+[2024-05-12 06:29:13 +0000] [19321] [ERROR] Worker (pid:20427) exited with code 1.
+[2024-05-12 06:29:13 +0000] [20472] [INFO] Booting worker with pid: 20472
+[2024-05-12 06:29:13 +0000] [19321] [ERROR] Worker (pid:20433) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 06:29:13 +0000] [20473] [INFO] Booting worker with pid: 20473
+[2024-05-12 06:29:13 +0000] [20474] [INFO] Booting worker with pid: 20474
+[2024-05-12 07:38:36 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20428)
+[2024-05-12 07:38:36 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20429)
+[2024-05-12 07:38:36 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20430)
+[2024-05-12 07:38:36 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20431)
+[2024-05-12 07:38:36 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20432)
+[2024-05-12 07:38:36 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20472)
+[2024-05-12 07:38:36 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20473)
+[2024-05-12 07:38:36 +0000] [20429] [INFO] Worker exiting (pid: 20429)
+[2024-05-12 07:38:36 +0000] [20431] [INFO] Worker exiting (pid: 20431)
+[2024-05-12 07:38:36 +0000] [20472] [INFO] Worker exiting (pid: 20472)
+[2024-05-12 07:38:36 +0000] [20473] [INFO] Worker exiting (pid: 20473)
+[2024-05-12 07:38:36 +0000] [20428] [INFO] Worker exiting (pid: 20428)
+[2024-05-12 07:38:36 +0000] [20430] [INFO] Worker exiting (pid: 20430)
+[2024-05-12 07:38:36 +0000] [20432] [INFO] Worker exiting (pid: 20432)
+[2024-05-12 07:38:36 +0000] [19321] [ERROR] Worker (pid:20428) exited with code 1
+[2024-05-12 07:38:36 +0000] [19321] [ERROR] Worker (pid:20428) exited with code 1.
+[2024-05-12 07:38:36 +0000] [20505] [INFO] Booting worker with pid: 20505
+[2024-05-12 07:38:36 +0000] [19321] [ERROR] Worker (pid:20473) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 07:38:36 +0000] [19321] [ERROR] Worker (pid:20429) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 07:38:36 +0000] [19321] [ERROR] Worker (pid:20432) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 07:38:36 +0000] [19321] [ERROR] Worker (pid:20431) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 07:38:36 +0000] [19321] [ERROR] Worker (pid:20430) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 07:38:36 +0000] [19321] [ERROR] Worker (pid:20472) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 07:38:36 +0000] [20506] [INFO] Booting worker with pid: 20506
+[2024-05-12 07:38:36 +0000] [20507] [INFO] Booting worker with pid: 20507
+[2024-05-12 07:38:36 +0000] [20508] [INFO] Booting worker with pid: 20508
+[2024-05-12 07:38:36 +0000] [20509] [INFO] Booting worker with pid: 20509
+[2024-05-12 07:38:36 +0000] [20510] [INFO] Booting worker with pid: 20510
+[2024-05-12 07:38:37 +0000] [20511] [INFO] Booting worker with pid: 20511
+[2024-05-12 09:17:43 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20474)
+[2024-05-12 09:17:43 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20505)
+[2024-05-12 09:17:43 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20506)
+[2024-05-12 09:17:43 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20507)
+[2024-05-12 09:17:43 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20508)
+[2024-05-12 09:17:43 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20509)
+[2024-05-12 09:17:43 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20510)
+[2024-05-12 09:17:43 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20511)
+[2024-05-12 09:17:43 +0000] [20474] [INFO] Worker exiting (pid: 20474)
+[2024-05-12 09:17:43 +0000] [20505] [INFO] Worker exiting (pid: 20505)
+[2024-05-12 09:17:43 +0000] [20511] [INFO] Worker exiting (pid: 20511)
+[2024-05-12 09:17:43 +0000] [20506] [INFO] Worker exiting (pid: 20506)
+[2024-05-12 09:17:43 +0000] [20507] [INFO] Worker exiting (pid: 20507)
+[2024-05-12 09:17:43 +0000] [20508] [INFO] Worker exiting (pid: 20508)
+[2024-05-12 09:17:43 +0000] [20510] [INFO] Worker exiting (pid: 20510)
+[2024-05-12 09:17:43 +0000] [20509] [INFO] Worker exiting (pid: 20509)
+[2024-05-12 09:17:43 +0000] [19321] [ERROR] Worker (pid:20505) exited with code 1
+[2024-05-12 09:17:43 +0000] [19321] [ERROR] Worker (pid:20505) exited with code 1.
+[2024-05-12 09:17:43 +0000] [20585] [INFO] Booting worker with pid: 20585
+[2024-05-12 09:17:43 +0000] [19321] [ERROR] Worker (pid:20507) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 09:17:43 +0000] [19321] [ERROR] Worker (pid:20474) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 09:17:43 +0000] [19321] [ERROR] Worker (pid:20508) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 09:17:43 +0000] [19321] [ERROR] Worker (pid:20506) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 09:17:43 +0000] [19321] [ERROR] Worker (pid:20510) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 09:17:43 +0000] [19321] [ERROR] Worker (pid:20509) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 09:17:43 +0000] [19321] [ERROR] Worker (pid:20511) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 09:17:43 +0000] [20586] [INFO] Booting worker with pid: 20586
+[2024-05-12 09:17:43 +0000] [20587] [INFO] Booting worker with pid: 20587
+[2024-05-12 09:17:43 +0000] [20588] [INFO] Booting worker with pid: 20588
+[2024-05-12 09:17:43 +0000] [20589] [INFO] Booting worker with pid: 20589
+[2024-05-12 09:17:43 +0000] [20590] [INFO] Booting worker with pid: 20590
+[2024-05-12 09:17:43 +0000] [20591] [INFO] Booting worker with pid: 20591
+[2024-05-12 09:17:43 +0000] [20592] [INFO] Booting worker with pid: 20592
+[2024-05-12 11:37:49 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20585)
+[2024-05-12 11:37:49 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20586)
+[2024-05-12 11:37:49 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20587)
+[2024-05-12 11:37:49 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20588)
+[2024-05-12 11:37:49 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20589)
+[2024-05-12 11:37:49 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20590)
+[2024-05-12 11:37:49 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20591)
+[2024-05-12 11:37:49 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20592)
+[2024-05-12 11:37:49 +0000] [20590] [INFO] Worker exiting (pid: 20590)
+[2024-05-12 11:37:49 +0000] [20589] [INFO] Worker exiting (pid: 20589)
+[2024-05-12 11:37:49 +0000] [20585] [INFO] Worker exiting (pid: 20585)
+[2024-05-12 11:37:49 +0000] [20591] [INFO] Worker exiting (pid: 20591)
+[2024-05-12 11:37:49 +0000] [20586] [INFO] Worker exiting (pid: 20586)
+[2024-05-12 11:37:49 +0000] [20587] [INFO] Worker exiting (pid: 20587)
+[2024-05-12 11:37:49 +0000] [20588] [INFO] Worker exiting (pid: 20588)
+[2024-05-12 11:37:49 +0000] [20592] [INFO] Worker exiting (pid: 20592)
+[2024-05-12 11:37:49 +0000] [19321] [ERROR] Worker (pid:20591) exited with code 1
+[2024-05-12 11:37:49 +0000] [19321] [ERROR] Worker (pid:20591) exited with code 1.
+[2024-05-12 11:37:49 +0000] [20663] [INFO] Booting worker with pid: 20663
+[2024-05-12 11:37:49 +0000] [19321] [ERROR] Worker (pid:20590) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 11:37:49 +0000] [19321] [ERROR] Worker (pid:20587) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 11:37:49 +0000] [19321] [ERROR] Worker (pid:20592) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 11:37:49 +0000] [19321] [ERROR] Worker (pid:20589) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 11:37:49 +0000] [19321] [ERROR] Worker (pid:20588) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 11:37:49 +0000] [19321] [ERROR] Worker (pid:20586) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 11:37:49 +0000] [19321] [ERROR] Worker (pid:20585) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 11:37:50 +0000] [20664] [INFO] Booting worker with pid: 20664
+[2024-05-12 11:37:50 +0000] [20665] [INFO] Booting worker with pid: 20665
+[2024-05-12 11:37:50 +0000] [20666] [INFO] Booting worker with pid: 20666
+[2024-05-12 11:37:50 +0000] [20667] [INFO] Booting worker with pid: 20667
+[2024-05-12 11:37:50 +0000] [20668] [INFO] Booting worker with pid: 20668
+[2024-05-12 11:37:50 +0000] [20669] [INFO] Booting worker with pid: 20669
+[2024-05-12 11:37:50 +0000] [20670] [INFO] Booting worker with pid: 20670
+[2024-05-12 12:43:31 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20669)
+[2024-05-12 12:43:31 +0000] [20669] [INFO] Worker exiting (pid: 20669)
+[2024-05-12 12:43:31 +0000] [19321] [ERROR] Worker (pid:20669) exited with code 1
+[2024-05-12 12:43:31 +0000] [19321] [ERROR] Worker (pid:20669) exited with code 1.
+[2024-05-12 12:43:31 +0000] [20708] [INFO] Booting worker with pid: 20708
+[2024-05-12 14:00:35 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20663)
+[2024-05-12 14:00:35 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20664)
+[2024-05-12 14:00:35 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20665)
+[2024-05-12 14:00:35 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20666)
+[2024-05-12 14:00:35 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20667)
+[2024-05-12 14:00:35 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20668)
+[2024-05-12 14:00:35 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20670)
+[2024-05-12 14:00:35 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20708)
+[2024-05-12 14:00:35 +0000] [20663] [INFO] Worker exiting (pid: 20663)
+[2024-05-12 14:00:35 +0000] [20664] [INFO] Worker exiting (pid: 20664)
+[2024-05-12 14:00:35 +0000] [20665] [INFO] Worker exiting (pid: 20665)
+[2024-05-12 14:00:35 +0000] [20666] [INFO] Worker exiting (pid: 20666)
+[2024-05-12 14:00:35 +0000] [20670] [INFO] Worker exiting (pid: 20670)
+[2024-05-12 14:00:35 +0000] [20708] [INFO] Worker exiting (pid: 20708)
+[2024-05-12 14:00:35 +0000] [20667] [INFO] Worker exiting (pid: 20667)
+[2024-05-12 14:00:35 +0000] [20668] [INFO] Worker exiting (pid: 20668)
+[2024-05-12 14:00:35 +0000] [19321] [ERROR] Worker (pid:20664) exited with code 1
+[2024-05-12 14:00:35 +0000] [19321] [ERROR] Worker (pid:20664) exited with code 1.
+[2024-05-12 14:00:35 +0000] [20744] [INFO] Booting worker with pid: 20744
+[2024-05-12 14:00:35 +0000] [19321] [ERROR] Worker (pid:20663) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 14:00:35 +0000] [19321] [ERROR] Worker (pid:20665) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 14:00:35 +0000] [19321] [ERROR] Worker (pid:20666) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 14:00:35 +0000] [19321] [ERROR] Worker (pid:20667) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 14:00:35 +0000] [19321] [ERROR] Worker (pid:20668) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 14:00:35 +0000] [19321] [ERROR] Worker (pid:20670) exited with code 1
+[2024-05-12 14:00:35 +0000] [19321] [ERROR] Worker (pid:20670) exited with code 1.
+[2024-05-12 14:00:35 +0000] [19321] [ERROR] Worker (pid:20708) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 14:00:35 +0000] [20745] [INFO] Booting worker with pid: 20745
+[2024-05-12 14:00:35 +0000] [20746] [INFO] Booting worker with pid: 20746
+[2024-05-12 14:00:35 +0000] [20747] [INFO] Booting worker with pid: 20747
+[2024-05-12 14:00:35 +0000] [20748] [INFO] Booting worker with pid: 20748
+[2024-05-12 14:00:35 +0000] [20749] [INFO] Booting worker with pid: 20749
+[2024-05-12 14:00:35 +0000] [20750] [INFO] Booting worker with pid: 20750
+[2024-05-12 14:00:35 +0000] [20751] [INFO] Booting worker with pid: 20751
+[2024-05-12 15:17:21 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20744)
+[2024-05-12 15:17:21 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20745)
+[2024-05-12 15:17:21 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20746)
+[2024-05-12 15:17:21 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20747)
+[2024-05-12 15:17:21 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20748)
+[2024-05-12 15:17:21 +0000] [20745] [INFO] Worker exiting (pid: 20745)
+[2024-05-12 15:17:21 +0000] [20744] [INFO] Worker exiting (pid: 20744)
+[2024-05-12 15:17:21 +0000] [20746] [INFO] Worker exiting (pid: 20746)
+[2024-05-12 15:17:21 +0000] [20747] [INFO] Worker exiting (pid: 20747)
+[2024-05-12 15:17:21 +0000] [20748] [INFO] Worker exiting (pid: 20748)
+[2024-05-12 15:17:21 +0000] [19321] [ERROR] Worker (pid:20745) exited with code 1
+[2024-05-12 15:17:21 +0000] [19321] [ERROR] Worker (pid:20745) exited with code 1.
+[2024-05-12 15:17:21 +0000] [20789] [INFO] Booting worker with pid: 20789
+[2024-05-12 15:17:21 +0000] [19321] [ERROR] Worker (pid:20746) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 15:17:21 +0000] [19321] [ERROR] Worker (pid:20747) was sent SIGKILL! Perhaps out of memory?
+--- Logging error ---
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1163, in emit
+    stream.write(msg + self.terminator)
+RuntimeError: reentrant call inside <_io.BufferedWriter name='<stderr>'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1163, in emit
+    stream.write(msg + self.terminator)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 554, in reap_workers
+    self.log.error(msg)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/glogging.py", line 272, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1568, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1684, in _log
+    self.handle(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1700, in handle
+    self.callHandlers(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1762, in callHandlers
+    hdlr.handle(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1028, in handle
+    self.emit(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1168, in emit
+    self.handleError(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1081, in handleError
+    sys.stderr.write('--- Logging error ---\n')
+RuntimeError: reentrant call inside <_io.BufferedWriter name='<stderr>'>
+Call stack:
+  File "/usr/local/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 211, in run
+    self.manage_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 643, in spawn_workers
+    time.sleep(0.1 * random.random())
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 240, in handle_chld
+    def handle_chld(self, sig, frame):
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 554, in reap_workers
+    self.log.error(msg)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/glogging.py", line 272, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:20747) was sent SIGKILL! Perhaps out of memory?'
+Arguments: ()
+[2024-05-12 15:17:21 +0000] [19321] [ERROR] Worker (pid:20748) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 15:17:21 +0000] [20790] [INFO] Booting worker with pid: 20790
+[2024-05-12 15:17:22 +0000] [20791] [INFO] Booting worker with pid: 20791
+[2024-05-12 15:17:22 +0000] [20792] [INFO] Booting worker with pid: 20792
+[2024-05-12 15:17:22 +0000] [20793] [INFO] Booting worker with pid: 20793
+[2024-05-12 16:38:04 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20749)
+[2024-05-12 16:38:04 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20750)
+[2024-05-12 16:38:04 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20751)
+[2024-05-12 16:38:04 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20791)
+[2024-05-12 16:38:04 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20792)
+[2024-05-12 16:38:04 +0000] [20749] [INFO] Worker exiting (pid: 20749)
+[2024-05-12 16:38:04 +0000] [20791] [INFO] Worker exiting (pid: 20791)
+[2024-05-12 16:38:04 +0000] [20750] [INFO] Worker exiting (pid: 20750)
+[2024-05-12 16:38:04 +0000] [20792] [INFO] Worker exiting (pid: 20792)
+[2024-05-12 16:38:04 +0000] [20751] [INFO] Worker exiting (pid: 20751)
+[2024-05-12 16:38:04 +0000] [19321] [ERROR] Worker (pid:20792) exited with code 1
+[2024-05-12 16:38:04 +0000] [19321] [ERROR] Worker (pid:20792) exited with code 1.
+[2024-05-12 16:38:04 +0000] [19321] [ERROR] Worker (pid:20749) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 16:38:04 +0000] [19321] [ERROR] Worker (pid:20751) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 16:38:04 +0000] [19321] [ERROR] Worker (pid:20791) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 16:38:04 +0000] [20824] [INFO] Booting worker with pid: 20824
+[2024-05-12 16:38:04 +0000] [19321] [ERROR] Worker (pid:20750) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 16:38:04 +0000] [20825] [INFO] Booting worker with pid: 20825
+[2024-05-12 16:38:05 +0000] [20826] [INFO] Booting worker with pid: 20826
+[2024-05-12 16:38:05 +0000] [20827] [INFO] Booting worker with pid: 20827
+[2024-05-12 16:38:05 +0000] [20828] [INFO] Booting worker with pid: 20828
+[2024-05-12 19:36:51 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20789)
+[2024-05-12 19:36:51 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20790)
+[2024-05-12 19:36:51 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20793)
+[2024-05-12 19:36:51 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20824)
+[2024-05-12 19:36:51 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20825)
+[2024-05-12 19:36:51 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20826)
+[2024-05-12 19:36:51 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20827)
+[2024-05-12 19:36:51 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20828)
+[2024-05-12 19:36:51 +0000] [20789] [INFO] Worker exiting (pid: 20789)
+[2024-05-12 19:36:51 +0000] [20790] [INFO] Worker exiting (pid: 20790)
+[2024-05-12 19:36:51 +0000] [20793] [INFO] Worker exiting (pid: 20793)
+[2024-05-12 19:36:51 +0000] [20824] [INFO] Worker exiting (pid: 20824)
+[2024-05-12 19:36:51 +0000] [20825] [INFO] Worker exiting (pid: 20825)
+[2024-05-12 19:36:51 +0000] [20826] [INFO] Worker exiting (pid: 20826)
+[2024-05-12 19:36:51 +0000] [20827] [INFO] Worker exiting (pid: 20827)
+[2024-05-12 19:36:51 +0000] [20828] [INFO] Worker exiting (pid: 20828)
+[2024-05-12 19:36:51 +0000] [19321] [ERROR] Worker (pid:20789) exited with code 1
+[2024-05-12 19:36:51 +0000] [19321] [ERROR] Worker (pid:20789) exited with code 1.
+[2024-05-12 19:36:51 +0000] [19321] [ERROR] Worker (pid:20790) exited with code 1
+[2024-05-12 19:36:51 +0000] [19321] [ERROR] Worker (pid:20790) exited with code 1.
+[2024-05-12 19:36:51 +0000] [19321] [ERROR] Worker (pid:20826) exited with code 1
+[2024-05-12 19:36:51 +0000] [19321] [ERROR] Worker (pid:20826) exited with code 1.
+[2024-05-12 19:36:51 +0000] [20903] [INFO] Booting worker with pid: 20903
+[2024-05-12 19:36:51 +0000] [19321] [ERROR] Worker (pid:20824) was sent SIGKILL! Perhaps out of memory?
+--- Logging error ---
+Traceback (most recent call last):
+[2024-05-12 19:36:51 +0000] [19321] [ERROR] Worker (pid:20827) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 19:36:51 +0000] [19321] [ERROR] Worker (pid:20828) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 19:36:51 +0000] [19321] [ERROR] Worker (pid:20825) was sent SIGKILL! Perhaps out of memory?
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1163, in emit
+    stream.write(msg + self.terminator)
+RuntimeError: reentrant call inside <_io.BufferedWriter name='<stderr>'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1163, in emit
+    stream.write(msg + self.terminator)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 554, in reap_workers
+    self.log.error(msg)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/glogging.py", line 272, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1568, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1684, in _log
+    self.handle(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1700, in handle
+    self.callHandlers(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1762, in callHandlers
+    hdlr.handle(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1028, in handle
+    self.emit(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1168, in emit
+    self.handleError(record)
+  File "/usr/local/lib/python3.12/logging/__init__.py", line 1081, in handleError
+    sys.stderr.write('--- Logging error ---\n')
+RuntimeError: reentrant call inside <_io.BufferedWriter name='<stderr>'>
+Call stack:
+  File "/usr/local/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 211, in run
+    self.manage_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 643, in spawn_workers
+    time.sleep(0.1 * random.random())
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/arbiter.py", line 554, in reap_workers
+    self.log.error(msg)
+  File "/usr/local/lib/python3.12/site-packages/gunicorn/glogging.py", line 272, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:20824) was sent SIGKILL! Perhaps out of memory?'
+Arguments: ()
+[2024-05-12 19:36:51 +0000] [20904] [INFO] Booting worker with pid: 20904
+[2024-05-12 19:36:51 +0000] [20905] [INFO] Booting worker with pid: 20905
+[2024-05-12 19:36:51 +0000] [20906] [INFO] Booting worker with pid: 20906
+[2024-05-12 19:36:51 +0000] [20907] [INFO] Booting worker with pid: 20907
+[2024-05-12 19:36:51 +0000] [20908] [INFO] Booting worker with pid: 20908
+[2024-05-12 19:36:51 +0000] [20909] [INFO] Booting worker with pid: 20909
+[2024-05-12 19:36:51 +0000] [20910] [INFO] Booting worker with pid: 20910
+[2024-05-12 22:29:54 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20906)
+[2024-05-12 22:29:54 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20907)
+[2024-05-12 22:29:54 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20910)
+[2024-05-12 22:29:54 +0000] [20906] [INFO] Worker exiting (pid: 20906)
+[2024-05-12 22:29:54 +0000] [20907] [INFO] Worker exiting (pid: 20907)
+[2024-05-12 22:29:54 +0000] [20910] [INFO] Worker exiting (pid: 20910)
+[2024-05-12 22:29:54 +0000] [19321] [ERROR] Worker (pid:20906) exited with code 1
+[2024-05-12 22:29:54 +0000] [19321] [ERROR] Worker (pid:20906) exited with code 1.
+[2024-05-12 22:29:54 +0000] [19321] [ERROR] Worker (pid:20907) exited with code 1
+[2024-05-12 22:29:54 +0000] [19321] [ERROR] Worker (pid:20907) exited with code 1.
+[2024-05-12 22:29:54 +0000] [20983] [INFO] Booting worker with pid: 20983
+[2024-05-12 22:29:54 +0000] [19321] [ERROR] Worker (pid:20910) was sent SIGKILL! Perhaps out of memory?
+[2024-05-12 22:29:54 +0000] [20984] [INFO] Booting worker with pid: 20984
+[2024-05-12 22:29:54 +0000] [20985] [INFO] Booting worker with pid: 20985
+[2024-05-12 23:39:46 +0000] [19321] [CRITICAL] WORKER TIMEOUT (pid:20985)
+[2024-05-12 23:39:46 +0000] [20985] [INFO] Worker exiting (pid: 20985)
+[2024-05-12 23:39:47 +0000] [19321] [ERROR] Worker (pid:20985) exited with code 1
+[2024-05-12 23:39:47 +0000] [19321] [ERROR] Worker (pid:20985) exited with code 1.
+[2024-05-12 23:39:47 +0000] [21023] [INFO] Booting worker with pid: 21023
