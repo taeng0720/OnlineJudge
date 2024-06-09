@@ -1,0 +1,46 @@
+{
+    "name": "@types/apollo-upload-client",
+    "version": "18.0.0",
+    "description": "TypeScript definitions for apollo-upload-client",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/apollo-upload-client",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Edward Sammut Alessi",
+            "githubUsername": "Slessi",
+            "url": "https://github.com/Slessi"
+        },
+        {
+            "name": "tyankatsu",
+            "githubUsername": "tyankatsu0105",
+            "url": "https://github.com/tyankatsu0105"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "exports": {
+        "./createUploadLink.mjs": {
+            "types": "./createUploadLink.d.mts"
+        },
+        "./formDataAppendFile.mjs": {
+            "types": "./formDataAppendFile.d.mts"
+        },
+        "./isExtractableFile.mjs": {
+            "types": "./isExtractableFile.d.mts"
+        },
+        "./package.json": "./package.json"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/apollo-upload-client"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@apollo/client": "^3.8.0",
+        "@types/extract-files": "*",
+        "graphql": "14 - 16"
+    },
+    "typesPublisherContentHash": "95e74760769f9839592e399582247df61022420d38cf29beffab2ef3f0e87a6e",
+    "typeScriptVersion": "4.7"
+}

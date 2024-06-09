@@ -1,0 +1,35 @@
+{
+    "name": "@types/cache-manager",
+    "version": "4.0.6",
+    "description": "TypeScript definitions for cache-manager",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/cache-manager",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Dominik Einkemmer",
+            "githubUsername": "dominikeinkemmer",
+            "url": "https://github.com/dominikeinkemmer"
+        },
+        {
+            "name": "Eduard Marbach",
+            "githubUsername": "BlackDark",
+            "url": "https://github.com/BlackDark"
+        },
+        {
+            "name": "Bryan Donovan",
+            "githubUsername": "BryanDonovan",
+            "url": "https://github.com/BryanDonovan"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/cache-manager"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "756e925271f21306812cb37885b9b1baa7010ff67c5a9e3dc6a0f373eb7eded1",
+    "typeScriptVersion": "4.5"
+}

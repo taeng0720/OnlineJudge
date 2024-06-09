@@ -1,62 +1,171 @@
-version: "3"
+version: '3'
+
 services:
-
-  oj-redis:
-    image: redis:4.0-alpine
-    restart: always
+  app:
+    profiles: ['devcontainer']
+    container_name: codedang-dev
+    build:
+      context: .
+      dockerfile: .devcontainer/Dockerfile
     volumes:
-      - ./data/redis:/data
-
-  oj-postgres:
-    image: postgres:10-alpine
-    restart: always
-    volumes:
-      - ./data/postgres:/var/lib/postgresql/data
+      - .:/workspace:cached
+    depends_on:
+      - rabbitmq
+      - database
+    stdin_open: true
+    tty: true
+    env_file: .env.stage
     environment:
-      - POSTGRES_DB=onlinejudge
-      - POSTGRES_USER=onlinejudge
-      - POSTGRES_PASSWORD=onlinejudge
+      DEVCONTAINER: 1
+    network_mode: host
 
-  oj-judge:
-    image: registry.cn-hongkong.aliyuncs.com/oj-image/judge:1.6.1
-    restart: always
-    read_only: true
-    cap_drop:
-      - SETPCAP
-      - MKNOD
-      - NET_BIND_SERVICE
-      - SYS_CHROOT
-      - SETFCAP
-      - FSETID
-    tmpfs:
-      - /tmp
-    volumes:
-      - ./data/backend/test_case:/test_case:ro
-      - ./data/judge_server/log:/log
-      - ./data/judge_server/run:/judger
+  storage:
+    container_name: codedang-storage
+    image: minio/minio
+    ports:
+      - 9000:9000
+      - 9001:9001
+    command: server /data --console-address ":9001"
     environment:
-      - SERVICE_URL=http://oj-judge:8080
-      - BACKEND_URL=http://oj-backend:8000/api/judge_server_heartbeat/
-      - TOKEN=CHANGE_THIS
-      # - judger_debug=1
+      MINIO_ROOT_USER: skku
+      MINIO_ROOT_PASSWORD: skku1234
+    volumes:
+      - codedang-storage:/data
 
-  oj-backend:
-    image: registry.cn-hongkong.aliyuncs.com/oj-image/backend:1.6.1
+  database:
+    container_name: codedang-database
+    image: postgres:16-alpine
+    ports:
+      - 5433:5432
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1234
+      POSTGRES_DB: skkuding
+    volumes:
+      - codedang-database:/var/lib/postgresql/data
+
+  test-database:
+    container_name: codedang-test-database
+    image: postgres:16-alpine
+    ports:
+      - 5434:5432
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1234
+      POSTGRES_DB: skkuding
+    volumes:
+      - codedang-test-database:/var/lib/postgresql/data
+
+  cache:
+    container_name: codedang-cache
+    image: redis:7-alpine
+    ports:
+      - 6380:6379
+
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    container_name: codedang-rabbitmq
+    ports:
+      - 15672:15672 # Admin Management
+      - 5672:5672
+    env_file: .env.stage
+    environment:
+      RABBITMQ_ERLANG_COOKIE: RabbitMQ-My-Cookies
+    volumes:
+      - codedang-rabbitmq:/var/lib/rabbitmq
+
+  caddy:
+    profiles: ['deploy']
+    image: caddy:2.8.4-alpine
+    container_name: caddy
+    restart: always
+    ports:
+      - '80:80'
+      - '443:443'
+    network_mode: host
+
+  backend-client:
+    profiles: ['deploy', 'update-target']
+    image: ghcr.io/skkuding/codedang-client-api:latest
+    container_name: backend-client
     restart: always
     depends_on:
-      - oj-redis
-      - oj-postgres
-      - oj-judge
+      setup:
+        condition: service_completed_successfully
+    env_file:
+      - .env.stage
+      - .env
+    network_mode: host
+
+  backend-admin:
+    profiles: ['deploy', 'update-target']
+    image: ghcr.io/skkuding/codedang-admin-api:latest
+    container_name: backend-admin
+    restart: always
+    depends_on:
+      setup:
+        condition: service_completed_successfully
+    env_file:
+      - .env.stage
+      - .env
+    network_mode: host
+
+  iris:
+    profiles: ['deploy', 'update-target']
+    image: ghcr.io/skkuding/codedang-iris:latest
+    container_name: iris
+    restart: always
+    depends_on:
+      setup:
+        condition: service_completed_successfully
+    env_file: .env.stage
+    network_mode: host
+
+  promtail:
+    profiles: ['deploy']
+    image: grafana/promtail
+    container_name: grafana-promtail
+    restart: always
+    env_file: .env
+    depends_on:
+      - backend-client
+      - backend-admin
+      - iris
     volumes:
-      - ./data/backend:/data
-      - ./data/OnlineJudgeDeploy/data/backend/dist:/app/dist
-    environment:
-      - POSTGRES_DB=onlinejudge
-      - POSTGRES_USER=onlinejudge
-      - POSTGRES_PASSWORD=onlinejudge
-      - JUDGE_SERVER_TOKEN=CHANGE_THIS
-      # - FORCE_HTTPS=1
-      # - STATIC_CDN_HOST=cdn.oj.com
+      - /var/run/docker.sock:/var/run/docker.sock
+      - $PWD/apps/grafana-logs/promtail/promtail-config.yml:/etc/promtail/promtail-config.yml
+    command:
+      - -config.file=/etc/promtail/promtail-config.yml
+      - -config.expand-env=true
+    network_mode: host
+
+  dozzle:
+    profiles: ['deploy']
+    image: amir20/dozzle:latest
+    container_name: dozzle
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
     ports:
-      - "0.0.0.0:80:8000"
-      - "0.0.0.0:443:1443"
+      - 9999:8080
+    environment:
+      DOZZLE_BASE: /logs
+
+  setup:
+    profiles: ['deploy']
+    image: python:3-bullseye # Python for rabbitmqadmin
+    container_name: setup
+    depends_on:
+      - rabbitmq
+      - database
+      - storage
+    volumes:
+      - $PWD/scripts:/etc/scripts
+      # - $PWD/dist:/etc/dist:z
+    network_mode: host
+    command: ['/bin/bash', '/etc/scripts/deploy.sh']
+
+volumes:
+  codedang-storage:
+  codedang-database:
+  codedang-test-database:
+  codedang-rabbitmq:
