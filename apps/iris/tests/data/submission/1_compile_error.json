@@ -1,0 +1,7 @@
+{
+  "problemId": 1,
+  "code": "print(\"Hello World!\")",
+  "language": "C",
+  "timeLimit": 1000,
+  "memoryLimit": 268435456
+}

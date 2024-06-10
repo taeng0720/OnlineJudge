@@ -1,0 +1,48 @@
+meta {
+  name: Succeed
+  type: http
+  seq: 1
+}
+
+get {
+  url: {{baseUrl}}/problem/1
+  body: none
+  auth: none
+}
+
+query {
+  ~groupId: 1
+  ~workbookId: 1
+}
+
+assert {
+  res.status: eq 200
+  res("id"): isNumber 1
+  res("title"): isString
+  res("description"): isString
+  res("inputDescription"): isString
+  res("outputDescription"): isString
+  res("hint"): isString
+  res("languages"): isDefined
+  res("timeLimit"): isNumber
+  res("memoryLimit"): isNumber
+  res("difficulty"): isString
+  res("source"): isString
+  res("tags"): isDefined
+}
+
+docs {
+  # Get Problem by ID
+  
+  하나의 문제 정보를 가져옵니다.
+  
+  ## Query
+  
+  
+  > workbookId가 주어진 경우, 워크북의 문제가 반환됩니다.
+  
+  | 이름 | 타입 | 설명 |
+  |-----|-----|-----|
+  |groupId   |Integer|문제가 속한 Group ID|
+  |workbookId|Integer|문제가 속한 문제집 ID|
+}
